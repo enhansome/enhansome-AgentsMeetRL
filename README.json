@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "description": "This list is also packaged as a Claude Code Skill — — that turns the corpus into an on-demand assistant for agentic-RL training, evaluation, and experiment design: reward not moving, KL / entropy / length blow-ups, GRPO / PPO / DAPO knobs, retokenization drift, tool-call parse failures, long-horizon credit assignment, LLM-judge inconsistency, benchmark contamination, and framework / benchmark / algorithm selection — each answer anchored to specific papers and repos from this list. Backed by a machine-readable corpus of 369 projects (snapshot 2026-07-23). Once installed, Claude Code auto-invokes it whenever your question matches.\nInstall as a plugin (recommended):\nOr install manually:\nThen just ask, e.g. \"my GRPO search agent's reward is flat but eval keeps dropping\" or \"which RL framework should I pick for a multi-turn tool-use agent?\" — the skill routes your symptom to fixes grounded in this corpus.",
+      "items": [],
+      "title": "🤖 Use as a Claude Code Skill"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Base Framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💪 General/MultiTask"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔍 Search & RAG Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌐 Web & GUI Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔨 Tool-Use Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 Code & SWE Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤔 Reasoning Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👥 Multi-Agent RL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧠 Memory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🦾 Embodied"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🏷️ Domain-Specific"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎯 Reward & Training Methodology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛡️ Safety"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👁️ VLM Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔄 Self-Evolution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⛰️ Environment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-08-26T06:24:59Z",
+            "owner": "antgroup",
+            "repo": "Research-Venus",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUA-RL: MULTI-TURN USER-INTERACTING AGENTREINFORCEMENT LEARNING FOR AGENTIC TOOL USE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T05:46:27Z",
+            "owner": "zzwkk",
+            "repo": "MUA-RL",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Under Review/Waiting for Open Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:05.494Z",
+    "original_repository": "thinkwee/AgentsMeetRL",
+    "original_repository_sha": "4627002b3130935f13958ea2f0cb174c2b197b55",
+    "enhanced_repository": "enhansome/enhansome-AgentsMeetRL",
+    "enhanced_repository_description": null,
+    "title": "Awesome When LLM Agents Meet Reinforcement Learning with stars"
+  }
+}
