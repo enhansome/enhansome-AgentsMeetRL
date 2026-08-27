@@ -5,6 +5,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Molt",
+          "description": "2026.7 NVIDIA (NeMo Labs) Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1277572326,
+            "language": "Python",
+            "last_commit": "2026-08-25T03:54:15Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "labs-molt",
+            "stars": 977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchard",
+          "description": "2026.7 Microsoft Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206534761,
+            "language": null,
+            "last_commit": "2026-07-31T00:01:08Z",
+            "owner": "microsoft",
+            "repo": "Orchard",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
           "title": "AgentJet",
           "description": "2026.6 ModelScope (Alibaba) Paper",
           "children": [],
@@ -50,6 +80,21 @@
         },
         {
           "node_type": "item",
+          "title": "AReno",
+          "description": "2026.6 Ant Group (inclusionAI) --",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263498017,
+            "language": "Python",
+            "last_commit": "2026-08-27T11:02:42Z",
+            "owner": "inclusionAI",
+            "repo": "AReno",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Polar",
           "description": "2026.5 NVIDIA (NeMo) Paper",
           "children": [],
@@ -60,7 +105,7 @@
             "last_commit": "2026-08-13T01:15:48Z",
             "owner": "NVIDIA-NeMo",
             "repo": "ProRL-Agent-Server",
-            "stars": 815
+            "stars": 817
           }
         },
         {
@@ -75,7 +120,7 @@
             "last_commit": "2026-08-26T10:27:13Z",
             "owner": "verl-project",
             "repo": "uni-agent",
-            "stars": 528
+            "stars": 533
           }
         },
         {
@@ -87,10 +132,10 @@
             "archived": false,
             "id": 1216947831,
             "language": "Python",
-            "last_commit": "2026-08-26T06:42:24Z",
+            "last_commit": "2026-08-27T10:12:53Z",
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 873
+            "stars": 879
           }
         },
         {
@@ -105,7 +150,7 @@
             "last_commit": "2026-05-23T04:17:31Z",
             "owner": "Gen-Verse",
             "repo": "OpenClaw-RL",
-            "stars": 5654
+            "stars": 5657
           }
         },
         {
@@ -147,10 +192,10 @@
             "archived": false,
             "id": 949546994,
             "language": "Python",
-            "last_commit": "2026-08-26T08:31:04Z",
+            "last_commit": "2026-08-27T09:55:19Z",
             "owner": "NVIDIA-NeMo",
             "repo": "RL",
-            "stars": 1960
+            "stars": 1962
           }
         },
         {
@@ -162,10 +207,10 @@
             "archived": false,
             "id": 1037741738,
             "language": "Python",
-            "last_commit": "2026-08-26T04:44:14Z",
+            "last_commit": "2026-08-27T09:20:06Z",
             "owner": "RLinf",
             "repo": "RLinf",
-            "stars": 4649
+            "stars": 4664
           }
         },
         {
@@ -180,7 +225,7 @@
             "last_commit": "2026-01-30T02:42:46Z",
             "owner": "sii-research",
             "repo": "siiRL",
-            "stars": 373
+            "stars": 374
           }
         },
         {
@@ -192,10 +237,10 @@
             "archived": false,
             "id": 1004140701,
             "language": "Python",
-            "last_commit": "2026-08-26T08:14:40Z",
+            "last_commit": "2026-08-27T07:21:39Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8255
+            "stars": 8271
           }
         },
         {
@@ -207,10 +252,10 @@
             "archived": false,
             "id": 1004147641,
             "language": "Python",
-            "last_commit": "2026-08-26T09:50:07Z",
+            "last_commit": "2026-08-27T09:29:49Z",
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 17842
+            "stars": 17874
           }
         },
         {
@@ -222,10 +267,10 @@
             "archived": false,
             "id": 937952934,
             "language": "Python",
-            "last_commit": "2026-08-26T10:03:23Z",
+            "last_commit": "2026-08-27T10:20:32Z",
             "owner": "areal-project",
             "repo": "AReaL",
-            "stars": 5695
+            "stars": 5699
           }
         },
         {
@@ -237,7 +282,7 @@
             "archived": false,
             "id": 991939049,
             "language": "Python",
-            "last_commit": "2026-08-26T01:34:48Z",
+            "last_commit": "2026-08-27T02:54:18Z",
             "owner": "alibaba",
             "repo": "ROLL",
             "stars": 3373
@@ -267,10 +312,10 @@
             "archived": false,
             "id": 959501623,
             "language": "Python",
-            "last_commit": "2026-08-26T10:25:33Z",
+            "last_commit": "2026-08-27T10:26:15Z",
             "owner": "google",
             "repo": "tunix",
-            "stars": 2414
+            "stars": 2417
           }
         },
         {
@@ -285,7 +330,7 @@
             "last_commit": "2026-05-20T08:28:37Z",
             "owner": "ChenmienTan",
             "repo": "RL2",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -297,10 +342,10 @@
             "archived": false,
             "id": 920603619,
             "language": "Python",
-            "last_commit": "2026-08-26T08:26:52Z",
+            "last_commit": "2026-08-27T03:21:35Z",
             "owner": "PrimeIntellect-ai",
             "repo": "verifiers",
-            "stars": 4557
+            "stars": 4562
           }
         },
         {
@@ -312,10 +357,10 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-26T07:30:31Z",
+            "last_commit": "2026-08-27T11:02:34Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1970
+            "stars": 1979
           }
         },
         {
@@ -342,10 +387,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-26T07:58:37Z",
+            "last_commit": "2026-08-27T09:34:36Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23143
+            "stars": 23153
           }
         },
         {
@@ -360,7 +405,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9956
+            "stars": 9957
           }
         },
         {
@@ -372,10 +417,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-26T10:04:57Z",
+            "last_commit": "2026-08-27T11:07:11Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19155
+            "stars": 19158
           }
         }
       ],
@@ -384,6 +429,51 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Orchard",
+          "description": "Online RL (vendored slime) Single Both Multi Harness-native RL (browser/computer-use/SWE) Model/Rule Yes (live browser, containers, agent harnesses)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206534761,
+            "language": null,
+            "last_commit": "2026-07-31T00:01:08Z",
+            "owner": "microsoft",
+            "repo": "Orchard",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AReno",
+          "description": "GSPO/GRPO (+SFT/DPO) Single Outcome Multi Single-node RL post-training (Math/SWE-style/Games) Custom Yes (inspect_tree/read_file/rg/apply_patch/run_command)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1263498017,
+            "language": "Python",
+            "last_commit": "2026-08-27T11:02:42Z",
+            "owner": "inclusionAI",
+            "repo": "AReno",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Molt",
+          "description": "REINFORCE/RLOO/GRPO/Dr.GRPO/GAE + On-policy Distillation Single Outcome Multi Domain-agnostic agentic RL (Math/Geometry/Chat) Custom Yes (Python exec, HTTP, VLM tools)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1277572326,
+            "language": "Python",
+            "last_commit": "2026-08-25T03:54:15Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "labs-molt",
+            "stars": 977
+          }
+        },
         {
           "node_type": "item",
           "title": "AgentJet",
@@ -441,7 +531,7 @@
             "last_commit": "2026-08-13T01:15:48Z",
             "owner": "NVIDIA-NeMo",
             "repo": "ProRL-Agent-Server",
-            "stars": 815
+            "stars": 817
           }
         },
         {
@@ -456,7 +546,7 @@
             "last_commit": "2026-08-26T10:27:13Z",
             "owner": "verl-project",
             "repo": "uni-agent",
-            "stars": 528
+            "stars": 533
           }
         },
         {
@@ -468,10 +558,10 @@
             "archived": false,
             "id": 1216947831,
             "language": "Python",
-            "last_commit": "2026-08-26T06:42:24Z",
+            "last_commit": "2026-08-27T10:12:53Z",
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 873
+            "stars": 879
           }
         },
         {
@@ -486,7 +576,7 @@
             "last_commit": "2026-05-23T04:17:31Z",
             "owner": "Gen-Verse",
             "repo": "OpenClaw-RL",
-            "stars": 5654
+            "stars": 5657
           }
         },
         {
@@ -528,10 +618,10 @@
             "archived": false,
             "id": 949546994,
             "language": "Python",
-            "last_commit": "2026-08-26T08:31:04Z",
+            "last_commit": "2026-08-27T09:55:19Z",
             "owner": "NVIDIA-NeMo",
             "repo": "RL",
-            "stars": 1960
+            "stars": 1962
           }
         },
         {
@@ -543,10 +633,10 @@
             "archived": false,
             "id": 1037741738,
             "language": "Python",
-            "last_commit": "2026-08-26T04:44:14Z",
+            "last_commit": "2026-08-27T09:20:06Z",
             "owner": "RLinf",
             "repo": "RLinf",
-            "stars": 4649
+            "stars": 4664
           }
         },
         {
@@ -561,7 +651,7 @@
             "last_commit": "2026-01-30T02:42:46Z",
             "owner": "sii-research",
             "repo": "siiRL",
-            "stars": 373
+            "stars": 374
           }
         },
         {
@@ -573,10 +663,10 @@
             "archived": false,
             "id": 1004140701,
             "language": "Python",
-            "last_commit": "2026-08-26T08:14:40Z",
+            "last_commit": "2026-08-27T07:21:39Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8255
+            "stars": 8271
           }
         },
         {
@@ -588,10 +678,10 @@
             "archived": false,
             "id": 1004147641,
             "language": "Python",
-            "last_commit": "2026-08-26T09:50:07Z",
+            "last_commit": "2026-08-27T09:29:49Z",
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 17842
+            "stars": 17874
           }
         },
         {
@@ -603,10 +693,10 @@
             "archived": false,
             "id": 937952934,
             "language": "Python",
-            "last_commit": "2026-08-26T10:03:23Z",
+            "last_commit": "2026-08-27T10:20:32Z",
             "owner": "areal-project",
             "repo": "AReaL",
-            "stars": 5695
+            "stars": 5699
           }
         },
         {
@@ -618,7 +708,7 @@
             "archived": false,
             "id": 991939049,
             "language": "Python",
-            "last_commit": "2026-08-26T01:34:48Z",
+            "last_commit": "2026-08-27T02:54:18Z",
             "owner": "alibaba",
             "repo": "ROLL",
             "stars": 3373
@@ -648,10 +738,10 @@
             "archived": false,
             "id": 959501623,
             "language": "Python",
-            "last_commit": "2026-08-26T10:25:33Z",
+            "last_commit": "2026-08-27T10:26:15Z",
             "owner": "google",
             "repo": "tunix",
-            "stars": 2414
+            "stars": 2417
           }
         },
         {
@@ -666,7 +756,7 @@
             "last_commit": "2026-05-20T08:28:37Z",
             "owner": "ChenmienTan",
             "repo": "RL2",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -678,10 +768,10 @@
             "archived": false,
             "id": 920603619,
             "language": "Python",
-            "last_commit": "2026-08-26T08:26:52Z",
+            "last_commit": "2026-08-27T03:21:35Z",
             "owner": "PrimeIntellect-ai",
             "repo": "verifiers",
-            "stars": 4557
+            "stars": 4562
           }
         },
         {
@@ -693,10 +783,10 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-26T07:30:31Z",
+            "last_commit": "2026-08-27T11:02:34Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 1970
+            "stars": 1979
           }
         },
         {
@@ -723,10 +813,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-26T07:58:37Z",
+            "last_commit": "2026-08-27T09:34:36Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23143
+            "stars": 23153
           }
         },
         {
@@ -741,7 +831,7 @@
             "last_commit": "2026-08-13T11:26:24Z",
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9956
+            "stars": 9957
           }
         },
         {
@@ -753,10 +843,10 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-26T10:04:57Z",
+            "last_commit": "2026-08-27T11:07:11Z",
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19155
+            "stars": 19158
           }
         }
       ],
@@ -804,10 +894,10 @@
             "archived": false,
             "id": 1238996909,
             "language": "Python",
-            "last_commit": "2026-08-19T10:54:41Z",
+            "last_commit": "2026-08-27T02:35:19Z",
             "owner": "ZJU-REAL",
             "repo": "SDAR",
-            "stars": 350
+            "stars": 352
           }
         },
         {
@@ -837,7 +927,7 @@
             "last_commit": "2026-06-07T04:57:05Z",
             "owner": "aiming-lab",
             "repo": "MetaClaw",
-            "stars": 3496
+            "stars": 3497
           }
         },
         {
@@ -852,7 +942,7 @@
             "last_commit": "2026-05-17T13:25:57Z",
             "owner": "aiming-lab",
             "repo": "SkillRL",
-            "stars": 948
+            "stars": 952
           }
         },
         {
@@ -882,7 +972,7 @@
             "last_commit": "2026-03-21T07:18:28Z",
             "owner": "TencentCloudADP",
             "repo": "youtu-agent",
-            "stars": 4605
+            "stars": 4604
           }
         },
         {
@@ -927,7 +1017,7 @@
             "last_commit": "2026-04-13T07:24:32Z",
             "owner": "RUC-NLPIR",
             "repo": "DeepAgent",
-            "stars": 1134
+            "stars": 1133
           }
         },
         {
@@ -972,7 +1062,7 @@
             "last_commit": "2025-09-08T13:17:33Z",
             "owner": "OPPO-PersonalAI",
             "repo": "Agent_Foundation_Models",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -987,7 +1077,7 @@
             "last_commit": "2026-08-13T03:03:40Z",
             "owner": "agentscope-ai",
             "repo": "Trinity-RFT",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -1017,7 +1107,7 @@
             "last_commit": "2026-06-09T13:35:49Z",
             "owner": "langfengQ",
             "repo": "verl-agent",
-            "stars": 2255
+            "stars": 2257
           }
         },
         {
@@ -1032,7 +1122,7 @@
             "last_commit": "2026-08-24T20:44:14Z",
             "owner": "NovaSky-AI",
             "repo": "SkyRL",
-            "stars": 2199
+            "stars": 2203
           }
         },
         {
@@ -1044,7 +1134,7 @@
             "archived": false,
             "id": 942934124,
             "language": "Python",
-            "last_commit": "2026-08-26T10:28:40Z",
+            "last_commit": "2026-08-26T11:09:27Z",
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 493
@@ -1059,10 +1149,10 @@
             "archived": false,
             "id": 946178371,
             "language": "Python",
-            "last_commit": "2026-08-26T10:29:11Z",
+            "last_commit": "2026-08-27T10:42:19Z",
             "owner": "OpenPipe",
             "repo": "ART",
-            "stars": 10662
+            "stars": 10668
           }
         },
         {
@@ -1074,10 +1164,10 @@
             "archived": false,
             "id": 946178371,
             "language": "Python",
-            "last_commit": "2026-08-26T10:29:11Z",
+            "last_commit": "2026-08-27T10:42:19Z",
             "owner": "OpenPipe",
             "repo": "ART",
-            "stars": 10662
+            "stars": 10668
           }
         },
         {
@@ -1092,7 +1182,7 @@
             "last_commit": "2026-05-05T06:03:26Z",
             "owner": "OpenManus",
             "repo": "OpenManus-RL",
-            "stars": 4154
+            "stars": 4155
           }
         }
       ],
@@ -1140,10 +1230,10 @@
             "archived": false,
             "id": 1238996909,
             "language": "Python",
-            "last_commit": "2026-08-19T10:54:41Z",
+            "last_commit": "2026-08-27T02:35:19Z",
             "owner": "ZJU-REAL",
             "repo": "SDAR",
-            "stars": 350
+            "stars": 352
           }
         },
         {
@@ -1173,7 +1263,7 @@
             "last_commit": "2026-06-07T04:57:05Z",
             "owner": "aiming-lab",
             "repo": "MetaClaw",
-            "stars": 3496
+            "stars": 3497
           }
         },
         {
@@ -1188,7 +1278,7 @@
             "last_commit": "2026-05-17T13:25:57Z",
             "owner": "aiming-lab",
             "repo": "SkillRL",
-            "stars": 948
+            "stars": 952
           }
         },
         {
@@ -1218,7 +1308,7 @@
             "last_commit": "2026-03-21T07:18:28Z",
             "owner": "TencentCloudADP",
             "repo": "youtu-agent",
-            "stars": 4605
+            "stars": 4604
           }
         },
         {
@@ -1263,7 +1353,7 @@
             "last_commit": "2026-04-13T07:24:32Z",
             "owner": "RUC-NLPIR",
             "repo": "DeepAgent",
-            "stars": 1134
+            "stars": 1133
           }
         },
         {
@@ -1308,7 +1398,7 @@
             "last_commit": "2025-09-08T13:17:33Z",
             "owner": "OPPO-PersonalAI",
             "repo": "Agent_Foundation_Models",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -1323,7 +1413,7 @@
             "last_commit": "2026-08-13T03:03:40Z",
             "owner": "agentscope-ai",
             "repo": "Trinity-RFT",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -1353,7 +1443,7 @@
             "last_commit": "2026-06-09T13:35:49Z",
             "owner": "langfengQ",
             "repo": "verl-agent",
-            "stars": 2255
+            "stars": 2257
           }
         },
         {
@@ -1368,7 +1458,7 @@
             "last_commit": "2026-08-24T20:44:14Z",
             "owner": "NovaSky-AI",
             "repo": "SkyRL",
-            "stars": 2199
+            "stars": 2203
           }
         },
         {
@@ -1380,7 +1470,7 @@
             "archived": false,
             "id": 942934124,
             "language": "Python",
-            "last_commit": "2026-08-26T10:28:40Z",
+            "last_commit": "2026-08-26T11:09:27Z",
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 493
@@ -1395,10 +1485,10 @@
             "archived": false,
             "id": 946178371,
             "language": "Python",
-            "last_commit": "2026-08-26T10:29:11Z",
+            "last_commit": "2026-08-27T10:42:19Z",
             "owner": "OpenPipe",
             "repo": "ART",
-            "stars": 10662
+            "stars": 10668
           }
         },
         {
@@ -1413,7 +1503,7 @@
             "last_commit": "2026-05-05T06:03:26Z",
             "owner": "OpenManus",
             "repo": "OpenManus-RL",
-            "stars": 4154
+            "stars": 4155
           }
         }
       ],
@@ -1422,6 +1512,51 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "EviSD",
+          "description": "2026.8 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317902339,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:58:06Z",
+            "owner": "JiananXie",
+            "repo": "EviSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTA-RAG",
+          "description": "2026.8 Academic (EMNLP'26 Findings) Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249348297,
+            "language": "Python",
+            "last_commit": "2026-08-23T13:42:48Z",
+            "owner": "cjcj46262",
+            "repo": "GTA-RAG",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAPO",
+          "description": "2026.7 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1301111886,
+            "language": "Python",
+            "last_commit": "2026-07-16T01:41:02Z",
+            "owner": "zhuq-111",
+            "repo": "LOTAPO-Leave-One-Turn-Attribution",
+            "stars": 0
+          }
+        },
         {
           "node_type": "item",
           "title": "Harness-1",
@@ -1434,7 +1569,7 @@
             "last_commit": "2026-06-15T16:34:26Z",
             "owner": "pat-jj",
             "repo": "harness-1",
-            "stars": 986
+            "stars": 987
           }
         },
         {
@@ -1499,6 +1634,36 @@
         },
         {
           "node_type": "item",
+          "title": "GrepSeek",
+          "description": "2026.5 UMass Amherst (CIIR) Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249730633,
+            "language": "Python",
+            "last_commit": "2026-05-29T20:18:07Z",
+            "owner": "alirezasalemi7",
+            "repo": "grepseek",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRAG",
+          "description": "2026.5 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1237295423,
+            "language": "Python",
+            "last_commit": "2026-05-14T03:43:51Z",
+            "owner": "GasolSun36",
+            "repo": "PyRAG",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ORBIT",
           "description": "2026.4 University of Waterloo Paper Custom",
           "children": [],
@@ -1524,7 +1689,7 @@
             "last_commit": "2026-08-07T05:08:00Z",
             "owner": "simplexai-labs",
             "repo": "LiteResearcher",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1629,7 +1794,7 @@
             "last_commit": "2026-06-17T02:47:32Z",
             "owner": "rlresearch",
             "repo": "dr-tulu",
-            "stars": 698
+            "stars": 699
           }
         },
         {
@@ -1719,7 +1884,7 @@
             "last_commit": "2026-01-26T17:11:54Z",
             "owner": "AMAP-ML",
             "repo": "Tree-GRPO",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -1734,7 +1899,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19877
+            "stars": 19879
           }
         },
         {
@@ -1899,7 +2064,7 @@
             "last_commit": "2025-08-16T17:34:58Z",
             "owner": "Alibaba-NLP",
             "repo": "ZeroSearch",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -1929,7 +2094,7 @@
             "last_commit": "2026-04-29T06:43:36Z",
             "owner": "Alibaba-NLP",
             "repo": "VRAG",
-            "stars": 979
+            "stars": 980
           }
         },
         {
@@ -2019,7 +2184,7 @@
             "last_commit": "2025-12-08T03:40:49Z",
             "owner": "RUC-NLPIR",
             "repo": "WebThinker",
-            "stars": 1467
+            "stars": 1466
           }
         },
         {
@@ -2049,7 +2214,7 @@
             "last_commit": "2025-11-13T21:56:33Z",
             "owner": "PeterGriffinJin",
             "repo": "Search-R1",
-            "stars": 5326
+            "stars": 5331
           }
         },
         {
@@ -2064,7 +2229,7 @@
             "last_commit": "2025-08-05T08:16:17Z",
             "owner": "RUCAIBox",
             "repo": "R1-Searcher",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -2105,6 +2270,81 @@
       "items": [
         {
           "node_type": "item",
+          "title": "PyRAG",
+          "description": "Curriculum shared-parameter GRPO (LoRA) Multi (Decompose/Plan/Answer) Both Multi Multi-hop RAG via executable Python synthesis Rule-Based + Execution Yes (Python exec + E5 retriever)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1237295423,
+            "language": "Python",
+            "last_commit": "2026-05-14T03:43:51Z",
+            "owner": "GasolSun36",
+            "repo": "PyRAG",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrepSeek",
+          "description": "SFT cold-start + GRPO Single Outcome Multi Direct corpus interaction (shell/grep, no index) Rule-Based (token-F1 x format gate) Yes (shell pipelines over raw corpus)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249730633,
+            "language": "Python",
+            "last_commit": "2026-05-29T20:18:07Z",
+            "owner": "alirezasalemi7",
+            "repo": "grepseek",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAPO",
+          "description": "GRPO + Leave-One-Turn Attribution Single Both Multi Multi-turn search QA (NQ/TriviaQA/HotpotQA/2Wiki) Rule-Based (self-generated) Yes (retrieval)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1301111886,
+            "language": "Python",
+            "last_commit": "2026-07-16T01:41:02Z",
+            "owner": "zhuq-111",
+            "repo": "LOTAPO-Leave-One-Turn-Attribution",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GTA-RAG",
+          "description": "3-stage GRPO Single Both Multi Multi-hop QA over entity-document graph Rule-Based (support-doc + EM) Yes (graph + dense retrieval)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249348297,
+            "language": "Python",
+            "last_commit": "2026-08-23T13:42:48Z",
+            "owner": "cjcj46262",
+            "repo": "GTA-RAG",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EviSD",
+          "description": "GRPO + Evidence-Conditioned Self-Distillation Single Outcome Multi Search-augmented multi-hop QA Rule-Based Yes (search/retrieval)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317902339,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:58:06Z",
+            "owner": "JiananXie",
+            "repo": "EviSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Harness-1",
           "description": "GRPO Single Outcome Multi Long-horizon search (web/finance/patents) w/ state-externalizing harness External + Rule Yes (search/retrieval/rerank)",
           "children": [],
@@ -2115,7 +2355,7 @@
             "last_commit": "2026-06-15T16:34:26Z",
             "owner": "pat-jj",
             "repo": "harness-1",
-            "stars": 986
+            "stars": 987
           }
         },
         {
@@ -2205,7 +2445,7 @@
             "last_commit": "2026-08-07T05:08:00Z",
             "owner": "simplexai-labs",
             "repo": "LiteResearcher",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -2310,7 +2550,7 @@
             "last_commit": "2026-06-17T02:47:32Z",
             "owner": "rlresearch",
             "repo": "dr-tulu",
-            "stars": 698
+            "stars": 699
           }
         },
         {
@@ -2400,7 +2640,7 @@
             "last_commit": "2026-01-26T17:11:54Z",
             "owner": "AMAP-ML",
             "repo": "Tree-GRPO",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -2415,7 +2655,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19877
+            "stars": 19879
           }
         },
         {
@@ -2580,7 +2820,7 @@
             "last_commit": "2025-08-16T17:34:58Z",
             "owner": "Alibaba-NLP",
             "repo": "ZeroSearch",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -2610,7 +2850,7 @@
             "last_commit": "2026-04-29T06:43:36Z",
             "owner": "Alibaba-NLP",
             "repo": "VRAG",
-            "stars": 979
+            "stars": 980
           }
         },
         {
@@ -2700,7 +2940,7 @@
             "last_commit": "2025-12-08T03:40:49Z",
             "owner": "RUC-NLPIR",
             "repo": "WebThinker",
-            "stars": 1467
+            "stars": 1466
           }
         },
         {
@@ -2730,7 +2970,7 @@
             "last_commit": "2025-11-13T21:56:33Z",
             "owner": "PeterGriffinJin",
             "repo": "Search-R1",
-            "stars": 5326
+            "stars": 5331
           }
         },
         {
@@ -2745,7 +2985,7 @@
             "last_commit": "2025-08-05T08:16:17Z",
             "owner": "RUCAIBox",
             "repo": "R1-Searcher",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -2796,7 +3036,7 @@
             "last_commit": "2026-08-03T14:01:55Z",
             "owner": "THUDM",
             "repo": "SCALE-CUA",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -2886,7 +3126,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9132
+            "stars": 9144
           }
         },
         {
@@ -2901,7 +3141,7 @@
             "last_commit": "2026-01-27T04:57:26Z",
             "owner": "bytedance",
             "repo": "UI-TARS",
-            "stars": 11386
+            "stars": 11393
           }
         },
         {
@@ -2946,7 +3186,7 @@
             "last_commit": "2026-06-25T03:00:01Z",
             "owner": "Mininglamp-AI",
             "repo": "Mano-P",
-            "stars": 2583
+            "stars": 2592
           }
         },
         {
@@ -3051,7 +3291,7 @@
             "last_commit": "2026-01-11T08:24:15Z",
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -3261,7 +3501,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19877
+            "stars": 19879
           }
         }
       ],
@@ -3282,7 +3522,7 @@
             "last_commit": "2026-08-03T14:01:55Z",
             "owner": "THUDM",
             "repo": "SCALE-CUA",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -3372,7 +3612,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9132
+            "stars": 9144
           }
         },
         {
@@ -3387,7 +3627,7 @@
             "last_commit": "2026-01-27T04:57:26Z",
             "owner": "bytedance",
             "repo": "UI-TARS",
-            "stars": 11386
+            "stars": 11393
           }
         },
         {
@@ -3432,7 +3672,7 @@
             "last_commit": "2026-06-25T03:00:01Z",
             "owner": "Mininglamp-AI",
             "repo": "Mano-P",
-            "stars": 2583
+            "stars": 2592
           }
         },
         {
@@ -3537,7 +3777,7 @@
             "last_commit": "2026-01-11T08:24:15Z",
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -3747,7 +3987,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19877
+            "stars": 19879
           }
         }
       ],
@@ -3968,6 +4208,21 @@
         },
         {
           "node_type": "item",
+          "title": "MUA-RL",
+          "description": "2025.8 Alibaba (Tongyi) Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1044035004,
+            "language": "Python",
+            "last_commit": "2025-11-05T05:46:27Z",
+            "owner": "zzwkk",
+            "repo": "MUA-RL",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
           "title": "verl-tool",
           "description": "2025.6 TIGER-Lab X veRL",
           "children": [],
@@ -4095,7 +4350,7 @@
             "archived": false,
             "id": 948379879,
             "language": "Python",
-            "last_commit": "2026-08-26T08:19:22Z",
+            "last_commit": "2026-08-27T09:21:44Z",
             "owner": "inclusionAI",
             "repo": "AWorld",
             "stars": 1226
@@ -4113,7 +4368,7 @@
             "last_commit": "2026-08-24T18:10:46Z",
             "owner": "AgentR1",
             "repo": "Agent-R1",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -4135,8 +4390,23 @@
       "title": "🔨 Tool-Use Agent"
     },
     {
-      "description": null,
+      "description": "| Github Repo | RL Algorithm | Single/Multi Agent | Outcome/Process Reward | Single/Multi Turn | Task | Reward Type | Tool usage |",
       "items": [
+        {
+          "node_type": "item",
+          "title": "MUA-RL",
+          "description": "GRPO Single Outcome Multi Multi-turn user-interacting agentic tool use (tau-bench/tau2-bench/ACEBench) Rule-Based (task completion) Yes (simulated user + tool APIs)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1044035004,
+            "language": "Python",
+            "last_commit": "2025-11-05T05:46:27Z",
+            "owner": "zzwkk",
+            "repo": "MUA-RL",
+            "stars": 67
+          }
+        },
         {
           "node_type": "item",
           "title": "Tool-RL-Box",
@@ -4476,7 +4746,7 @@
             "archived": false,
             "id": 948379879,
             "language": "Python",
-            "last_commit": "2026-08-26T08:19:22Z",
+            "last_commit": "2026-08-27T09:21:44Z",
             "owner": "inclusionAI",
             "repo": "AWorld",
             "stars": 1226
@@ -4494,7 +4764,7 @@
             "last_commit": "2026-08-24T18:10:46Z",
             "owner": "AgentR1",
             "repo": "Agent-R1",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -4518,6 +4788,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Lego-RL",
+          "description": "2026.8 LegoX Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1314621723,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:54:49Z",
+            "owner": "LegoX",
+            "repo": "Lego-RL",
+            "stars": 57
+          }
+        },
         {
           "node_type": "item",
           "title": "SWE-Edit",
@@ -4560,7 +4845,7 @@
             "last_commit": "2026-07-08T12:01:09Z",
             "owner": "BytedTsinghua-SIA",
             "repo": "CUDA-Agent",
-            "stars": 1256
+            "stars": 1258
           }
         },
         {
@@ -4632,10 +4917,10 @@
             "archived": false,
             "id": 1074218324,
             "language": "Python",
-            "last_commit": "2026-07-01T03:12:26Z",
+            "last_commit": "2026-08-26T14:01:40Z",
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4565
+            "stars": 4566
           }
         },
         {
@@ -4767,7 +5052,7 @@
             "archived": false,
             "id": 975249395,
             "language": "Python",
-            "last_commit": "2026-01-29T03:52:42Z",
+            "last_commit": "2026-08-27T09:21:16Z",
             "owner": "Tencent",
             "repo": "digitalhuman",
             "stars": 361
@@ -4886,6 +5171,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Lego-RL",
+          "description": "PPO/GRPO/GSPO (sync & async) Single Outcome Multi SWE-bench Verified inside real coding harnesses External Verifier (Harbor sandbox) Yes (native harness bash/file-edit/test)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1314621723,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:54:49Z",
+            "owner": "LegoX",
+            "repo": "Lego-RL",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SWE-Edit",
           "description": "GRPO (adaptive mode selection) Multi (Viewer + Editor subagents) Outcome Multi SWE-bench Verified (find-replace vs whole-file rewrite) Rule/External (test-based) Yes (bash, file ops, viewer subagent)",
           "children": [],
@@ -4926,7 +5226,7 @@
             "last_commit": "2026-07-08T12:01:09Z",
             "owner": "BytedTsinghua-SIA",
             "repo": "CUDA-Agent",
-            "stars": 1256
+            "stars": 1258
           }
         },
         {
@@ -4998,10 +5298,10 @@
             "archived": false,
             "id": 1074218324,
             "language": "Python",
-            "last_commit": "2026-07-01T03:12:26Z",
+            "last_commit": "2026-08-26T14:01:40Z",
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4565
+            "stars": 4566
           }
         },
         {
@@ -5133,7 +5433,7 @@
             "archived": false,
             "id": 975249395,
             "language": "Python",
-            "last_commit": "2026-01-29T03:52:42Z",
+            "last_commit": "2026-08-27T09:21:16Z",
             "owner": "Tencent",
             "repo": "digitalhuman",
             "stars": 361
@@ -5262,7 +5562,7 @@
             "last_commit": "2026-07-10T07:54:20Z",
             "owner": "aiming-lab",
             "repo": "Agent0",
-            "stars": 1255
+            "stars": 1257
           }
         },
         {
@@ -5292,7 +5592,7 @@
             "last_commit": "2026-02-08T14:00:53Z",
             "owner": "lupantech",
             "repo": "AgentFlow",
-            "stars": 2015
+            "stars": 2019
           }
         },
         {
@@ -5337,7 +5637,7 @@
             "last_commit": "2026-08-20T07:12:37Z",
             "owner": "RUC-NLPIR",
             "repo": "ARPO",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -5424,10 +5724,10 @@
             "archived": false,
             "id": 936986786,
             "language": "Python",
-            "last_commit": "2026-07-30T09:58:19Z",
+            "last_commit": "2026-08-26T21:14:17Z",
             "owner": "hiyouga",
             "repo": "EasyR1",
-            "stars": 5129
+            "stars": 5130
           }
         },
         {
@@ -5508,7 +5808,7 @@
             "last_commit": "2026-07-10T07:54:20Z",
             "owner": "aiming-lab",
             "repo": "Agent0",
-            "stars": 1255
+            "stars": 1257
           }
         },
         {
@@ -5538,7 +5838,7 @@
             "last_commit": "2026-02-08T14:00:53Z",
             "owner": "lupantech",
             "repo": "AgentFlow",
-            "stars": 2015
+            "stars": 2019
           }
         },
         {
@@ -5583,7 +5883,7 @@
             "last_commit": "2026-08-20T07:12:37Z",
             "owner": "RUC-NLPIR",
             "repo": "ARPO",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -5670,10 +5970,10 @@
             "archived": false,
             "id": 936986786,
             "language": "Python",
-            "last_commit": "2026-07-30T09:58:19Z",
+            "last_commit": "2026-08-26T21:14:17Z",
             "owner": "hiyouga",
             "repo": "EasyR1",
-            "stars": 5129
+            "stars": 5130
           }
         },
         {
@@ -5784,7 +6084,7 @@
             "last_commit": "2026-05-15T01:33:49Z",
             "owner": "pettingllms-ai",
             "repo": "PettingLLMs",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -5985,7 +6285,7 @@
             "last_commit": "2026-05-15T01:33:49Z",
             "owner": "pettingllms-ai",
             "repo": "PettingLLMs",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -6146,6 +6446,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MemPrism",
+          "description": "2026.8 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1326097418,
+            "language": "Python",
+            "last_commit": "2026-08-11T23:01:10Z",
+            "owner": "Feld-maxiu",
+            "repo": "MemPrism",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Supersede",
           "description": "2026.6 Vrin Paper verifiers + prime-rl",
           "children": [],
@@ -6171,7 +6486,7 @@
             "last_commit": "2026-04-24T07:09:40Z",
             "owner": "y1y5",
             "repo": "AgeMem",
-            "stars": 38
+            "stars": 40
           }
         },
         {
@@ -6231,7 +6546,7 @@
             "last_commit": "2025-10-05T14:34:18Z",
             "owner": "Memento-Teams",
             "repo": "Memento",
-            "stars": 2568
+            "stars": 2569
           }
         },
         {
@@ -6255,6 +6570,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "MemPrism",
+          "description": "GRPO/GiGPO Single Both Multi Memory-view selection for ALFWorld/ALFRED + Mind2Web Rule-Based Yes (memory-view action + env actions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1326097418,
+            "language": "Python",
+            "last_commit": "2026-08-11T23:01:10Z",
+            "owner": "Feld-maxiu",
+            "repo": "MemPrism",
+            "stars": 8
+          }
+        },
         {
           "node_type": "item",
           "title": "Supersede",
@@ -6282,7 +6612,7 @@
             "last_commit": "2026-04-24T07:09:40Z",
             "owner": "y1y5",
             "repo": "AgeMem",
-            "stars": 38
+            "stars": 40
           }
         },
         {
@@ -6342,7 +6672,7 @@
             "last_commit": "2025-10-05T14:34:18Z",
             "owner": "Memento-Teams",
             "repo": "Memento",
-            "stars": 2568
+            "stars": 2569
           }
         },
         {
@@ -6408,7 +6738,7 @@
             "last_commit": "2026-05-15T10:52:30Z",
             "owner": "LeiDQ",
             "repo": "AVA-VLA",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -6423,7 +6753,7 @@
             "last_commit": "2026-06-02T16:39:15Z",
             "owner": "EmbodiedCity",
             "repo": "WorldVLN.code",
-            "stars": 133
+            "stars": 135
           }
         },
         {
@@ -6519,7 +6849,7 @@
             "last_commit": "2026-05-15T10:52:30Z",
             "owner": "LeiDQ",
             "repo": "AVA-VLA",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -6534,7 +6864,7 @@
             "last_commit": "2026-06-02T16:39:15Z",
             "owner": "EmbodiedCity",
             "repo": "WorldVLN.code",
-            "stars": 133
+            "stars": 135
           }
         },
         {
@@ -6675,7 +7005,7 @@
             "last_commit": "2025-12-30T14:39:56Z",
             "owner": "FinStep-AI",
             "repo": "Alpha-R1",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -6750,7 +7080,7 @@
             "last_commit": "2026-08-24T18:55:59Z",
             "owner": "snap-stanford",
             "repo": "Biomni",
-            "stars": 3785
+            "stars": 3794
           }
         }
       ],
@@ -6846,7 +7176,7 @@
             "last_commit": "2025-12-30T14:39:56Z",
             "owner": "FinStep-AI",
             "repo": "Alpha-R1",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -6921,7 +7251,7 @@
             "last_commit": "2026-08-24T18:55:59Z",
             "owner": "snap-stanford",
             "repo": "Biomni",
-            "stars": 3785
+            "stars": 3794
           }
         }
       ],
@@ -6930,6 +7260,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Agent-G²",
+          "description": "2026.8 Zhejiang University / Baidu (EMNLP'26) Paper Exploration guidance under sparse reward",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288998968,
+            "language": "Python",
+            "last_commit": "2026-08-25T06:22:19Z",
+            "owner": "ZJU-REAL",
+            "repo": "Agent-G2",
+            "stars": 26
+          }
+        },
         {
           "node_type": "item",
           "title": "AgentV-RL",
@@ -7086,6 +7431,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Agent-G²",
+          "description": "GRPO + Gaussian-guided adaptive-depth exploration Single Outcome Multi ALFWorld / WebShop Rule-Based/External Yes (interactive env actions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288998968,
+            "language": "Python",
+            "last_commit": "2026-08-25T06:22:19Z",
+            "owner": "ZJU-REAL",
+            "repo": "Agent-G2",
+            "stars": 26
+          }
+        },
         {
           "node_type": "item",
           "title": "AgentV-RL",
@@ -7526,6 +7886,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "InSight-doc",
+          "description": "2026.8 Academic (EMNLP'26) Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1323874734,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:05:39Z",
+            "owner": "m-Just",
+            "repo": "InSight-doc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
           "title": "VTS",
           "description": "2026.7 UNC Chapel Hill / Sony Paper ms-swift",
           "children": [],
@@ -7596,7 +7971,7 @@
             "last_commit": "2026-06-02T09:16:08Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "ParaVT",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -7731,7 +8106,7 @@
             "last_commit": "2026-02-26T06:39:20Z",
             "owner": "Visual-Agent",
             "repo": "DeepEyesV2",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -7776,7 +8151,7 @@
             "last_commit": "2026-04-07T12:24:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "multimodal-search-r1",
-            "stars": 479
+            "stars": 482
           }
         },
         {
@@ -7791,7 +8166,7 @@
             "last_commit": "2026-05-29T09:55:21Z",
             "owner": "ucla-mobility",
             "repo": "AutoVLA",
-            "stars": 631
+            "stars": 634
           }
         },
         {
@@ -7806,7 +8181,7 @@
             "last_commit": "2025-11-20T11:57:10Z",
             "owner": "Visual-Agent",
             "repo": "DeepEyes",
-            "stars": 1270
+            "stars": 1272
           }
         },
         {
@@ -7851,7 +8226,7 @@
             "last_commit": "2025-10-29T07:28:02Z",
             "owner": "Liuziyu77",
             "repo": "Visual-RFT",
-            "stars": 2270
+            "stars": 2271
           }
         },
         {
@@ -7896,7 +8271,7 @@
             "last_commit": "2025-12-05T08:07:01Z",
             "owner": "xtong-zhang",
             "repo": "Chain-of-Focus",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -7965,6 +8340,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "InSight-doc",
+          "description": "SFT cold-start + GRPO Single Both Multi Long/multi-page document VQA (DUDE/MP-DocVQA) Rule-Based Yes (zoom-in tool)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1323874734,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:05:39Z",
+            "owner": "m-Just",
+            "repo": "InSight-doc",
+            "stars": 7
+          }
+        },
         {
           "node_type": "item",
           "title": "VTS",
@@ -8037,7 +8427,7 @@
             "last_commit": "2026-06-02T09:16:08Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "ParaVT",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -8172,7 +8562,7 @@
             "last_commit": "2026-02-26T06:39:20Z",
             "owner": "Visual-Agent",
             "repo": "DeepEyesV2",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -8217,7 +8607,7 @@
             "last_commit": "2026-04-07T12:24:53Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "multimodal-search-r1",
-            "stars": 479
+            "stars": 482
           }
         },
         {
@@ -8232,7 +8622,7 @@
             "last_commit": "2026-05-29T09:55:21Z",
             "owner": "ucla-mobility",
             "repo": "AutoVLA",
-            "stars": 631
+            "stars": 634
           }
         },
         {
@@ -8247,7 +8637,7 @@
             "last_commit": "2025-11-20T11:57:10Z",
             "owner": "Visual-Agent",
             "repo": "DeepEyes",
-            "stars": 1270
+            "stars": 1272
           }
         },
         {
@@ -8292,7 +8682,7 @@
             "last_commit": "2025-10-29T07:28:02Z",
             "owner": "Liuziyu77",
             "repo": "Visual-RFT",
-            "stars": 2270
+            "stars": 2271
           }
         },
         {
@@ -8337,7 +8727,7 @@
             "last_commit": "2025-12-05T08:07:01Z",
             "owner": "xtong-zhang",
             "repo": "Chain-of-Focus",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -8408,6 +8798,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AgentOPSD",
+          "description": "2026.8 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1324950805,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:39:28Z",
+            "owner": "ZethWang",
+            "repo": "AgentOPSD",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaT",
+          "description": "2026.8 NVIDIA (MONAI) Paper veRL + slime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1336699835,
+            "language": "Python",
+            "last_commit": "2026-08-20T03:17:56Z",
+            "owner": "AutoMedBench",
+            "repo": "Benchmark-as-Teacher",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SEED",
           "description": "2026.7 Academic (jinyangwu) Paper veRL",
           "children": [],
@@ -8418,7 +8838,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 249
+            "stars": 251
           }
         },
         {
@@ -8448,7 +8868,7 @@
             "last_commit": "2026-07-03T15:44:19Z",
             "owner": "TU2021",
             "repo": "UCOB",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -8523,7 +8943,7 @@
             "last_commit": "2026-05-23T17:00:11Z",
             "owner": "ViktorAxelsen",
             "repo": "MemSkill",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -8538,7 +8958,7 @@
             "last_commit": "2026-07-18T03:51:40Z",
             "owner": "MemTensor",
             "repo": "MemRL",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -8553,7 +8973,7 @@
             "last_commit": "2026-04-01T08:47:19Z",
             "owner": "modelscope",
             "repo": "AgentEvolver",
-            "stars": 1547
+            "stars": 1548
           }
         },
         {
@@ -8598,7 +9018,7 @@
             "last_commit": "2026-02-04T23:48:41Z",
             "owner": "Chengsong-Huang",
             "repo": "R-Zero",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -8628,7 +9048,7 @@
             "last_commit": "2026-08-23T22:59:46Z",
             "owner": "mll-lab-nu",
             "repo": "RAGEN",
-            "stars": 2778
+            "stars": 2779
           }
         },
         {
@@ -8654,6 +9074,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "BaT",
+          "description": "SFT init + GRPO + BiCuRL (bilevel curriculum) Single Both Multi Medical research agent (AutoMedBench) Model-Based (stage rubrics) + Rule Yes (stage skills + fixed exec env)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1336699835,
+            "language": "Python",
+            "last_commit": "2026-08-20T03:17:56Z",
+            "owner": "AutoMedBench",
+            "repo": "Benchmark-as-Teacher",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentOPSD",
+          "description": "GRPO + critic-free recursive turn-level self-distillation Single Both Multi ALFWorld / WebShop / Search-QA Rule-Based + External Yes (env actions, search)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1324950805,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:39:28Z",
+            "owner": "ZethWang",
+            "repo": "AgentOPSD",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SEED",
           "description": "GRPO + self-evolving on-policy distillation (hindsight-skill SFT → OPD during RL) Single Outcome Multi ALFWorld / WebShop / Search-QA / EZPoints / Sokoban Rule + External Yes (interactive env actions, search)",
           "children": [],
@@ -8664,7 +9114,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 249
+            "stars": 251
           }
         },
         {
@@ -8694,7 +9144,7 @@
             "last_commit": "2026-07-03T15:44:19Z",
             "owner": "TU2021",
             "repo": "UCOB",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -8769,7 +9219,7 @@
             "last_commit": "2026-05-23T17:00:11Z",
             "owner": "ViktorAxelsen",
             "repo": "MemSkill",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -8784,7 +9234,7 @@
             "last_commit": "2026-07-18T03:51:40Z",
             "owner": "MemTensor",
             "repo": "MemRL",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -8799,7 +9249,7 @@
             "last_commit": "2026-04-01T08:47:19Z",
             "owner": "modelscope",
             "repo": "AgentEvolver",
-            "stars": 1547
+            "stars": 1548
           }
         },
         {
@@ -8844,7 +9294,7 @@
             "last_commit": "2026-02-04T23:48:41Z",
             "owner": "Chengsong-Huang",
             "repo": "R-Zero",
-            "stars": 840
+            "stars": 841
           }
         },
         {
@@ -8874,7 +9324,7 @@
             "last_commit": "2026-08-23T22:59:46Z",
             "owner": "mll-lab-nu",
             "repo": "RAGEN",
-            "stars": 2778
+            "stars": 2779
           }
         },
         {
@@ -8898,6 +9348,66 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "PAST-Bench",
+          "description": "2026.8 Gen-Verse (NUS/Stanford/Oxford/Princeton) Cross-session personal agents (26 task families, 204 episodes, Docker sandbox; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1319797823,
+            "language": "Python",
+            "last_commit": "2026-08-05T01:16:45Z",
+            "owner": "Gen-Verse",
+            "repo": "PAST-Bench",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigiWorld",
+          "description": "2026.8 Meta (FAIR) Mobile GUI (15 sandboxed Android apps, 3.2M+ configs, real ADB/emulator)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338544376,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T18:43:19Z",
+            "owner": "facebookresearch",
+            "repo": "digiworld",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evo-Bench",
+          "description": "2026.8 Renmin University (RUCAIBox) Agent-harness self-improvement (608 tasks, E2B sandbox, up to 1,000 steps; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1318515370,
+            "language": "Python",
+            "last_commit": "2026-08-11T03:23:05Z",
+            "owner": "RUCAIBox",
+            "repo": "Evo-Bench",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScrambleToolBench",
+          "description": "2026.8 NTU DeCLaRe Lab / A*STAR Tool-use robustness (obfuscated tool semantics, drift, stochastic failures; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1320172934,
+            "language": "Python",
+            "last_commit": "2026-08-04T02:51:19Z",
+            "owner": "declare-lab",
+            "repo": "ScrambleToolBench",
+            "stars": 4
+          }
+        },
         {
           "node_type": "item",
           "title": "SETA",
@@ -8930,6 +9440,66 @@
         },
         {
           "node_type": "item",
+          "title": "Echoverse",
+          "description": "2026.7 Microsoft Research Computer-use (722 resettable DB-grounded synthetic web tasks, ID/OOD splits; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1309640971,
+            "language": "HTML",
+            "last_commit": "2026-08-12T00:47:30Z",
+            "owner": "microsoft",
+            "repo": "Echoverse",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocOps",
+          "description": "2026.7 Chinese Academy of Sciences (ICT) Document operations (Excel/Word/PPT/PDF, 210 Harbor-format tasks, artifact verifiers; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308343741,
+            "language": "Python",
+            "last_commit": "2026-07-23T05:48:54Z",
+            "owner": "icip-cas",
+            "repo": "DocOps",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatientAgentBench",
+          "description": "2026.7 Amazon Science Patient-facing health agents (stateful healthcare sandbox, simulated-user agent; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296717138,
+            "language": "Python",
+            "last_commit": "2026-07-29T04:49:15Z",
+            "owner": "amazon-science",
+            "repo": "PatientAgentBench",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegalWorld",
+          "description": "2026.6 SII / Fudan DISC Legal agents (full civil-litigation lifecycle, multi-role, live backend; Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1296056515,
+            "language": "Python",
+            "last_commit": "2026-07-10T04:42:20Z",
+            "owner": "sii-research",
+            "repo": "Legal-world",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
           "title": "MobileGym",
           "description": "2026.5 Academic Mobile GUI (Android sim, verifiable, parallel)",
           "children": [],
@@ -8940,7 +9510,7 @@
             "last_commit": "2026-08-24T14:42:07Z",
             "owner": "Purewhiter",
             "repo": "mobilegym",
-            "stars": 775
+            "stars": 776
           }
         },
         {
@@ -8985,7 +9555,7 @@
             "last_commit": "2026-08-22T20:48:02Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 589
+            "stars": 593
           }
         },
         {
@@ -8996,11 +9566,11 @@
           "repo_info": {
             "archived": false,
             "id": 1118085970,
-            "language": "Python",
-            "last_commit": "2026-08-26T10:10:02Z",
+            "language": "Go",
+            "last_commit": "2026-08-27T11:14:39Z",
             "owner": "opensandbox-group",
             "repo": "OpenSandbox",
-            "stars": 14721
+            "stars": 14753
           }
         },
         {
@@ -9012,10 +9582,10 @@
             "archived": false,
             "id": 1067949357,
             "language": "Python",
-            "last_commit": "2026-08-26T02:08:29Z",
+            "last_commit": "2026-08-26T17:49:45Z",
             "owner": "huggingface",
             "repo": "OpenEnv",
-            "stars": 2519
+            "stars": 2521
           }
         },
         {
@@ -9045,7 +9615,7 @@
             "last_commit": "2026-05-28T21:36:00Z",
             "owner": "Snowflake-Labs",
             "repo": "agent-world-model",
-            "stars": 434
+            "stars": 435
           }
         },
         {
@@ -9087,10 +9657,10 @@
             "archived": false,
             "id": 1044554840,
             "language": "Python",
-            "last_commit": "2026-08-26T10:26:04Z",
+            "last_commit": "2026-08-27T10:41:41Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Gym",
-            "stars": 1140
+            "stars": 1142
           }
         },
         {
@@ -9165,7 +9735,7 @@
             "last_commit": "2026-06-02T18:57:29Z",
             "owner": "SalesforceAIResearch",
             "repo": "enterprise-deep-research",
-            "stars": 1201
+            "stars": 1203
           }
         },
         {
@@ -9195,7 +9765,7 @@
             "last_commit": "2026-05-28T19:01:25Z",
             "owner": "texttron",
             "repo": "BrowseComp-Plus",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -9252,10 +9822,10 @@
             "archived": false,
             "id": 999222244,
             "language": "Python",
-            "last_commit": "2026-08-18T17:07:54Z",
+            "last_commit": "2026-08-27T00:08:35Z",
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1879
+            "stars": 1890
           }
         },
         {
@@ -9300,7 +9870,7 @@
             "last_commit": "2026-01-21T15:38:39Z",
             "owner": "axon-rl",
             "repo": "gem",
-            "stars": 506
+            "stars": 505
           }
         },
         {
@@ -9345,7 +9915,7 @@
             "last_commit": "2026-08-24T19:49:25Z",
             "owner": "SWE-bench",
             "repo": "SWE-smith",
-            "stars": 751
+            "stars": 752
           }
         },
         {
@@ -9360,7 +9930,7 @@
             "last_commit": "2026-07-04T17:39:01Z",
             "owner": "NousResearch",
             "repo": "atropos",
-            "stars": 1349
+            "stars": 1350
           }
         },
         {
@@ -9375,7 +9945,7 @@
             "last_commit": "2026-08-12T13:13:22Z",
             "owner": "InternLM",
             "repo": "InternBootcamp",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -9387,7 +9957,7 @@
             "archived": false,
             "id": 955998034,
             "language": "Python",
-            "last_commit": "2026-08-14T17:34:47Z",
+            "last_commit": "2026-08-27T06:39:46Z",
             "owner": "camel-ai",
             "repo": "loong",
             "stars": 508
@@ -9510,7 +10080,7 @@
             "last_commit": "2026-03-18T17:36:06Z",
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -9540,7 +10110,7 @@
             "last_commit": "2026-07-16T20:18:37Z",
             "owner": "google-research",
             "repo": "android_world",
-            "stars": 860
+            "stars": 862
           }
         },
         {
@@ -9615,7 +10185,7 @@
             "last_commit": "2026-08-21T09:11:07Z",
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3107
+            "stars": 3109
           }
         },
         {
@@ -9630,7 +10200,7 @@
             "last_commit": "2025-11-26T21:16:00Z",
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1587
+            "stars": 1589
           }
         },
         {
@@ -9645,7 +10215,7 @@
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3695
+            "stars": 3699
           }
         },
         {
@@ -9675,7 +10245,7 @@
             "last_commit": "2026-08-20T00:59:45Z",
             "owner": "allenai",
             "repo": "ScienceWorld",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -9690,7 +10260,7 @@
             "last_commit": "2026-06-11T22:52:19Z",
             "owner": "JackHopkins",
             "repo": "factorio-learning-environment",
-            "stars": 1155
+            "stars": 1156
           }
         },
         {
@@ -9705,7 +10275,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 841
+            "stars": 844
           }
         },
         {
@@ -9720,7 +10290,7 @@
             "last_commit": "2026-08-14T10:48:36Z",
             "owner": "microsoft",
             "repo": "jericho",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -9740,49 +10310,20 @@
         }
       ],
       "title": "⛰️ Environment"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 1040449427,
-            "language": "Python",
-            "last_commit": "2025-08-26T06:24:59Z",
-            "owner": "antgroup",
-            "repo": "Research-Venus",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MUA-RL: MULTI-TURN USER-INTERACTING AGENTREINFORCEMENT LEARNING FOR AGENTIC TOOL USE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1044035004,
-            "language": "Python",
-            "last_commit": "2025-11-05T05:46:27Z",
-            "owner": "zzwkk",
-            "repo": "MUA-RL",
-            "stars": 67
-          }
-        }
-      ],
-      "title": "Under Review/Waiting for Open Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:31:36.861Z",
-    "original_repository": "thinkwee/AgentsMeetRL",
-    "original_repository_id": 998903307,
-    "original_repository_sha": "4627002b3130935f13958ea2f0cb174c2b197b55",
+    "last_updated": "2026-08-27T11:18:36.488Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 998903307,
+      "language": "HTML",
+      "last_commit": "2026-08-26T22:40:43Z",
+      "owner": "thinkwee",
+      "repo": "AgentsMeetRL",
+      "stars": 1799
+    },
+    "original_repository_sha": "5b99edad837d1d186e437623a0f509b60520749d",
     "enhanced_repository": "enhansome/enhansome-AgentsMeetRL",
     "enhanced_repository_description": null,
     "title": "Awesome When LLM Agents Meet Reinforcement Learning with stars"
