@@ -5,6 +5,101 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ForkRL",
+          "description": "2026.11 UCSD (WukLab) Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1445207345,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T00:24:07Z",
+            "open_issues": 0,
+            "owner": "WukLab",
+            "repo": "ForkRL",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HarborRL",
+          "description": "2026.10 Rice University (DATA Lab) --",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An end-to-end framework for Agentic Reinforcement Learning.",
+            "homepage": null,
+            "id": 1415730316,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-12T05:32:27Z",
+            "open_issues": 0,
+            "owner": "datamllab",
+            "repo": "HarborRL",
+            "stars": 265,
+            "topics": [
+              "agent",
+              "agent-framework",
+              "agentic",
+              "agentic-ai",
+              "agentrl",
+              "coding-agent",
+              "coding-agents",
+              "dapo",
+              "grpo",
+              "harbor",
+              "harbor-framework",
+              "llm",
+              "llm-agents",
+              "llms",
+              "ppo",
+              "prm",
+              "reinforcement-learning",
+              "reinforcement-learning-agent",
+              "rl",
+              "slime"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Canopy",
+          "description": "2026.10 HKUST / Tencent --",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Canopy (NeurIPS 2026): tree-aware rollout scheduling for agent RL. Group placement and group-level admission on stock vLLM; rollout steps 1.6–3.6× faster than verl.",
+            "homepage": null,
+            "id": 1425916743,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-10T05:20:54Z",
+            "open_issues": 0,
+            "owner": "FarrenZhang",
+            "repo": "canopy-rl",
+            "stars": 0,
+            "topics": [
+              "agentic-rl",
+              "kv-cache",
+              "llm-agents",
+              "llm-inference",
+              "llm-serving",
+              "neurips-2026",
+              "reinforcement-learning",
+              "scheduling",
+              "verl",
+              "vllm"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "LoongSage",
           "description": "2026.8 Baidu (BAIGE) --",
           "children": [],
@@ -15,11 +110,11 @@
             "id": 1349320558,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:48:49Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-17T03:51:38Z",
+            "open_issues": 21,
             "owner": "baidu-baige",
             "repo": "LoongSage",
-            "stars": 699,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-10-10T15:40:46.083Z"
@@ -63,11 +158,11 @@
             "id": 1277572326,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T09:16:56Z",
+            "last_commit": "2026-11-17T05:04:37Z",
             "open_issues": 21,
             "owner": "NVIDIA-NeMo",
             "repo": "labs-molt",
-            "stars": 1326,
+            "stars": 1360,
             "topics": [
               "agentic-rl",
               "context-parallelism",
@@ -120,7 +215,7 @@
             "open_issues": 5,
             "owner": "modelscope",
             "repo": "AgentJet",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -179,7 +274,7 @@
             "id": 1263498017,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T07:45:07Z",
+            "last_commit": "2026-11-17T10:01:04Z",
             "open_issues": 184,
             "owner": "inclusionAI",
             "repo": "AReno",
@@ -255,11 +350,11 @@
             "id": 1139787647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T13:11:53Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-17T07:52:18Z",
+            "open_issues": 76,
             "owner": "verl-project",
             "repo": "uni-agent",
-            "stars": 729,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -276,11 +371,11 @@
             "id": 1216947831,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T08:44:33Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-17T09:40:39Z",
+            "open_issues": 176,
             "owner": "verl-project",
             "repo": "verl-omni",
-            "stars": 1530,
+            "stars": 1537,
             "topics": [
               "diffusion-models",
               "flow-matching",
@@ -400,11 +495,11 @@
             "id": 949546994,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:56:14Z",
-            "open_issues": 1445,
+            "last_commit": "2026-11-17T18:56:06Z",
+            "open_issues": 1448,
             "owner": "NVIDIA-NeMo",
             "repo": "RL",
-            "stars": 2135,
+            "stars": 2137,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -421,11 +516,11 @@
             "id": 1037741738,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T14:40:47Z",
-            "open_issues": 343,
+            "last_commit": "2026-11-17T15:34:29Z",
+            "open_issues": 348,
             "owner": "RLinf",
             "repo": "RLinf",
-            "stars": 5657,
+            "stars": 5663,
             "topics": [
               "agentic-ai",
               "embodied-ai",
@@ -471,10 +566,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T23:42:16Z",
-            "open_issues": 574,
+            "open_issues": 577,
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8831,
+            "stars": 8840,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -495,7 +590,7 @@
             "open_issues": 184,
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 18964,
+            "stars": 18972,
             "topics": [
               "agent",
               "agentic-ai",
@@ -518,11 +613,11 @@
             "id": 937952934,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:41:53Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-17T16:07:05Z",
+            "open_issues": 181,
             "owner": "areal-project",
             "repo": "AReaL",
-            "stars": 5913,
+            "stars": 5914,
             "topics": [
               "agent",
               "llm",
@@ -548,11 +643,11 @@
             "id": 991939049,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T01:15:12Z",
+            "last_commit": "2026-11-17T01:13:54Z",
             "open_issues": 147,
             "owner": "alibaba",
             "repo": "ROLL",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "agentic",
               "rlhf",
@@ -607,8 +702,8 @@
             "id": 959501623,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:07:03Z",
-            "open_issues": 575,
+            "last_commit": "2026-11-17T18:55:00Z",
+            "open_issues": 574,
             "owner": "google",
             "repo": "tunix",
             "stars": 2511,
@@ -649,11 +744,11 @@
             "id": 920603619,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:44:47Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-17T16:39:56Z",
+            "open_issues": 189,
             "owner": "PrimeIntellect-ai",
             "repo": "verifiers",
-            "stars": 4788,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -670,11 +765,11 @@
             "id": 934553284,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:04:07Z",
-            "open_issues": 250,
+            "last_commit": "2026-11-17T18:47:25Z",
+            "open_issues": 254,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
-            "stars": 2250,
+            "stars": 2253,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -695,7 +790,7 @@
             "open_issues": 9,
             "owner": "sail-sg",
             "repo": "oat",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "alignment",
               "distributed-rl",
@@ -729,11 +824,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T11:53:44Z",
-            "open_issues": 1508,
+            "last_commit": "2026-11-17T14:19:19Z",
+            "open_issues": 1513,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 24245,
+            "stars": 24268,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -754,7 +849,7 @@
             "open_issues": 434,
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 10159,
+            "stars": 10164,
             "topics": [
               "large-language-models",
               "proximal-policy-optimization",
@@ -780,17 +875,112 @@
             "id": 250510075,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T18:18:46Z",
-            "open_issues": 304,
+            "last_commit": "2026-11-17T17:29:40Z",
+            "open_issues": 298,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19745,
+            "stars": 19753,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "ForkRL",
+              "description": "GRPO Single Outcome Multi Faster agentic-RL rollouts via whole-workspace forking (OSWorld/web) External Verifier Yes (computer-use / tool-call prefix caching)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1445207345,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-14T00:24:07Z",
+                "open_issues": 0,
+                "owner": "WukLab",
+                "repo": "ForkRL",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HarborRL",
+              "description": "GRPO/DAPO/REINFORCE + OPD (slime or native trainer) Single Both Multi Lightweight agentic RL over Harbor-format sandboxed tasks (Terminal-Bench/SWE) with 40+ harnesses External Verifier Yes (sandbox shell/code, agent harnesses)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An end-to-end framework for Agentic Reinforcement Learning.",
+                "homepage": null,
+                "id": 1415730316,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-12T05:32:27Z",
+                "open_issues": 0,
+                "owner": "datamllab",
+                "repo": "HarborRL",
+                "stars": 265,
+                "topics": [
+                  "agent",
+                  "agent-framework",
+                  "agentic",
+                  "agentic-ai",
+                  "agentrl",
+                  "coding-agent",
+                  "coding-agents",
+                  "dapo",
+                  "grpo",
+                  "harbor",
+                  "harbor-framework",
+                  "llm",
+                  "llm-agents",
+                  "llms",
+                  "ppo",
+                  "prm",
+                  "reinforcement-learning",
+                  "reinforcement-learning-agent",
+                  "rl",
+                  "slime"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Canopy",
+              "description": "PPO/GRPO (system-level, tree-aware rollout scheduling on verl) Single Outcome Multi Prefix-sharing-aware scheduling of multi-turn agent rollouts External Verifier Yes (tool-calling rollouts)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Canopy (NeurIPS 2026): tree-aware rollout scheduling for agent RL. Group placement and group-level admission on stock vLLM; rollout steps 1.6–3.6× faster than verl.",
+                "homepage": null,
+                "id": 1425916743,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-10T05:20:54Z",
+                "open_issues": 0,
+                "owner": "FarrenZhang",
+                "repo": "canopy-rl",
+                "stars": 0,
+                "topics": [
+                  "agentic-rl",
+                  "kv-cache",
+                  "llm-agents",
+                  "llm-inference",
+                  "llm-serving",
+                  "neurips-2026",
+                  "reinforcement-learning",
+                  "scheduling",
+                  "verl",
+                  "vllm"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "LoongSage",
@@ -803,11 +993,11 @@
                 "id": 1349320558,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T12:48:49Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-17T03:51:38Z",
+                "open_issues": 21,
                 "owner": "baidu-baige",
                 "repo": "LoongSage",
-                "stars": 699,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-10-10T15:40:46.083Z"
@@ -872,7 +1062,7 @@
                 "id": 1263498017,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T07:45:07Z",
+                "last_commit": "2026-11-17T10:01:04Z",
                 "open_issues": 184,
                 "owner": "inclusionAI",
                 "repo": "AReno",
@@ -927,11 +1117,11 @@
                 "id": 1277572326,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T09:16:56Z",
+                "last_commit": "2026-11-17T05:04:37Z",
                 "open_issues": 21,
                 "owner": "NVIDIA-NeMo",
                 "repo": "labs-molt",
-                "stars": 1326,
+                "stars": 1360,
                 "topics": [
                   "agentic-rl",
                   "context-parallelism",
@@ -963,7 +1153,7 @@
                 "open_issues": 5,
                 "owner": "modelscope",
                 "repo": "AgentJet",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1043,11 +1233,11 @@
                 "id": 1139787647,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T13:11:53Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-17T07:52:18Z",
+                "open_issues": 76,
                 "owner": "verl-project",
                 "repo": "uni-agent",
-                "stars": 729,
+                "stars": 733,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1064,11 +1254,11 @@
                 "id": 1216947831,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T08:44:33Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-17T09:40:39Z",
+                "open_issues": 176,
                 "owner": "verl-project",
                 "repo": "verl-omni",
-                "stars": 1530,
+                "stars": 1537,
                 "topics": [
                   "diffusion-models",
                   "flow-matching",
@@ -1188,11 +1378,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T19:56:14Z",
-                "open_issues": 1445,
+                "last_commit": "2026-11-17T18:56:06Z",
+                "open_issues": 1448,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2135,
+                "stars": 2137,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1209,11 +1399,11 @@
                 "id": 1037741738,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T14:40:47Z",
-                "open_issues": 343,
+                "last_commit": "2026-11-17T15:34:29Z",
+                "open_issues": 348,
                 "owner": "RLinf",
                 "repo": "RLinf",
-                "stars": 5657,
+                "stars": 5663,
                 "topics": [
                   "agentic-ai",
                   "embodied-ai",
@@ -1259,10 +1449,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T23:42:16Z",
-                "open_issues": 574,
+                "open_issues": 577,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8831,
+                "stars": 8840,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1283,7 +1473,7 @@
                 "open_issues": 184,
                 "owner": "microsoft",
                 "repo": "agent-lightning",
-                "stars": 18964,
+                "stars": 18972,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -1306,11 +1496,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:41:53Z",
-                "open_issues": 176,
+                "last_commit": "2026-11-17T16:07:05Z",
+                "open_issues": 181,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5913,
+                "stars": 5914,
                 "topics": [
                   "agent",
                   "llm",
@@ -1336,11 +1526,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:15:12Z",
+                "last_commit": "2026-11-17T01:13:54Z",
                 "open_issues": 147,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3455,
+                "stars": 3454,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -1395,8 +1585,8 @@
                 "id": 959501623,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T19:07:03Z",
-                "open_issues": 575,
+                "last_commit": "2026-11-17T18:55:00Z",
+                "open_issues": 574,
                 "owner": "google",
                 "repo": "tunix",
                 "stars": 2511,
@@ -1437,11 +1627,11 @@
                 "id": 920603619,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T19:44:47Z",
-                "open_issues": 191,
+                "last_commit": "2026-11-17T16:39:56Z",
+                "open_issues": 189,
                 "owner": "PrimeIntellect-ai",
                 "repo": "verifiers",
-                "stars": 4788,
+                "stars": 4792,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1458,11 +1648,11 @@
                 "id": 934553284,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T19:04:07Z",
-                "open_issues": 250,
+                "last_commit": "2026-11-17T18:47:25Z",
+                "open_issues": 254,
                 "owner": "PrimeIntellect-ai",
                 "repo": "prime-rl",
-                "stars": 2250,
+                "stars": 2253,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1483,7 +1673,7 @@
                 "open_issues": 9,
                 "owner": "sail-sg",
                 "repo": "oat",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "alignment",
                   "distributed-rl",
@@ -1517,11 +1707,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T11:53:44Z",
-                "open_issues": 1508,
+                "last_commit": "2026-11-17T14:19:19Z",
+                "open_issues": 1513,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24245,
+                "stars": 24268,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1542,7 +1732,7 @@
                 "open_issues": 434,
                 "owner": "OpenRLHF",
                 "repo": "OpenRLHF",
-                "stars": 10159,
+                "stars": 10164,
                 "topics": [
                   "large-language-models",
                   "proximal-policy-optimization",
@@ -1568,11 +1758,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T18:18:46Z",
-                "open_issues": 304,
+                "last_commit": "2026-11-17T17:29:40Z",
+                "open_issues": 298,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19745,
+                "stars": 19753,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1604,7 +1794,7 @@
             "open_issues": 2,
             "owner": "WillDreamer",
             "repo": "T2PO",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "agent",
               "llm",
@@ -1650,7 +1840,7 @@
             "open_issues": 11,
             "owner": "ZJU-REAL",
             "repo": "SDAR",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "agentic-ai",
               "agentic-skill",
@@ -1677,7 +1867,7 @@
             "open_issues": 0,
             "owner": "ZJU-REAL",
             "repo": "SkillZero",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "agent",
               "curriculum-learning",
@@ -1741,7 +1931,7 @@
             "open_issues": 1,
             "owner": "aiming-lab",
             "repo": "SkillRL",
-            "stars": 1043,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -1784,10 +1974,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-09T04:08:09Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "TencentCloudADP",
             "repo": "youtu-agent",
-            "stars": 4636,
+            "stars": 4637,
             "topics": [
               "agent-framework",
               "agents",
@@ -1994,7 +2184,7 @@
             "open_issues": 70,
             "owner": "langfengQ",
             "repo": "verl-agent",
-            "stars": 2449,
+            "stars": 2450,
             "topics": [
               "agent-framework",
               "deepseek-r1",
@@ -2020,11 +2210,11 @@
             "id": 970890722,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:58:11Z",
-            "open_issues": 650,
+            "last_commit": "2026-11-17T17:51:34Z",
+            "open_issues": 654,
             "owner": "NovaSky-AI",
             "repo": "SkyRL",
-            "stars": 2532,
+            "stars": 2534,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2075,11 +2265,11 @@
             "id": 946178371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T02:30:51Z",
+            "last_commit": "2026-11-16T22:44:08Z",
             "open_issues": 182,
             "owner": "OpenPipe",
             "repo": "ART",
-            "stars": 10859,
+            "stars": 10861,
             "topics": [
               "agent",
               "agentic-ai",
@@ -2106,11 +2296,11 @@
             "id": 946178371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T02:30:51Z",
+            "last_commit": "2026-11-16T22:44:08Z",
             "open_issues": 182,
             "owner": "OpenPipe",
             "repo": "ART",
-            "stars": 10859,
+            "stars": 10861,
             "topics": [
               "agent",
               "agentic-ai",
@@ -2141,7 +2331,7 @@
             "open_issues": 28,
             "owner": "OpenManus",
             "repo": "OpenManus-RL",
-            "stars": 4178,
+            "stars": 4179,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2164,7 +2354,7 @@
                 "open_issues": 2,
                 "owner": "WillDreamer",
                 "repo": "T2PO",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "agent",
                   "llm",
@@ -2210,7 +2400,7 @@
                 "open_issues": 11,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 381,
+                "stars": 382,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -2237,7 +2427,7 @@
                 "open_issues": 0,
                 "owner": "ZJU-REAL",
                 "repo": "SkillZero",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "agent",
                   "curriculum-learning",
@@ -2301,7 +2491,7 @@
                 "open_issues": 1,
                 "owner": "aiming-lab",
                 "repo": "SkillRL",
-                "stars": 1043,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2344,10 +2534,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T04:08:09Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "TencentCloudADP",
                 "repo": "youtu-agent",
-                "stars": 4636,
+                "stars": 4637,
                 "topics": [
                   "agent-framework",
                   "agents",
@@ -2554,7 +2744,7 @@
                 "open_issues": 70,
                 "owner": "langfengQ",
                 "repo": "verl-agent",
-                "stars": 2449,
+                "stars": 2450,
                 "topics": [
                   "agent-framework",
                   "deepseek-r1",
@@ -2580,11 +2770,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T19:58:11Z",
-                "open_issues": 650,
+                "last_commit": "2026-11-17T17:51:34Z",
+                "open_issues": 654,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2532,
+                "stars": 2534,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2635,11 +2825,11 @@
                 "id": 946178371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T02:30:51Z",
+                "last_commit": "2026-11-16T22:44:08Z",
                 "open_issues": 182,
                 "owner": "OpenPipe",
                 "repo": "ART",
-                "stars": 10859,
+                "stars": 10861,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -2670,7 +2860,7 @@
                 "open_issues": 28,
                 "owner": "OpenManus",
                 "repo": "OpenManus-RL",
-                "stars": 4178,
+                "stars": 4179,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2686,6 +2876,84 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Axion 1.0",
+          "description": "2026.11 ByteDance / Duke -- veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+            "homepage": "https://axion1-0.github.io",
+            "id": 1442514709,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-11T15:43:47Z",
+            "open_issues": 4,
+            "owner": "bytedance",
+            "repo": "axion1_0",
+            "stars": 90,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agentic-workflow",
+              "agents",
+              "ai",
+              "ai-agents",
+              "llm",
+              "multi-agent"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PatternBloom",
+          "description": "2026.11 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns (NeurIPS 2026)",
+            "homepage": null,
+            "id": 1448803755,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-06T22:24:45Z",
+            "open_issues": 0,
+            "owner": "EllenYiGe",
+            "repo": "PatternBloom",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EviBack",
+          "description": "2026.7 Chery (NEXTAI Research Institute) Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
+            "homepage": "https://chery-nextai.github.io/eviback/",
+            "id": 1314919710,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-04T01:07:42Z",
+            "open_issues": 1,
+            "owner": "chery-nextai",
+            "repo": "eviback",
+            "stars": 11,
+            "topics": [
+              "agent",
+              "agent-framework",
+              "agent-skill",
+              "agentic-ai",
+              "agentic-search"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "EviSD",
@@ -2807,7 +3075,7 @@
             "open_issues": 1,
             "owner": "ZMingHang",
             "repo": "DeepRubric-Code",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -2955,11 +3223,11 @@
             "id": 1215818612,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-05-08T12:33:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-17T03:53:07Z",
+            "open_issues": 2,
             "owner": "inclusionAI",
             "repo": "DR-Venus",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -3248,7 +3516,7 @@
             "open_issues": 103,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 20147,
+            "stars": 20150,
             "topics": [
               "agent",
               "alibaba",
@@ -3300,7 +3568,7 @@
             "open_issues": 14,
             "owner": "inclusionAI",
             "repo": "ASearcher",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -3728,7 +3996,7 @@
             "open_issues": 40,
             "owner": "PeterGriffinJin",
             "repo": "Search-R1",
-            "stars": 5580,
+            "stars": 5582,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -3805,6 +4073,84 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Axion 1.0",
+              "description": "GRPO-style (2×SFT then RL) Single Outcome Multi Open deep-research agent foundation model Rule/Model Yes (web search/browse)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+                "homepage": "https://axion1-0.github.io",
+                "id": 1442514709,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-11T15:43:47Z",
+                "open_issues": 4,
+                "owner": "bytedance",
+                "repo": "axion1_0",
+                "stars": 90,
+                "topics": [
+                  "agent-skills",
+                  "agentic-ai",
+                  "agentic-workflow",
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "llm",
+                  "multi-agent"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PatternBloom",
+              "description": "PPO-family (two-stage) Single Both Multi Agentic graph RAG: hypergraph construction + pattern-memory traversal Custom (information-density + pattern-augmented) Yes (hypergraph retrieval API)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns (NeurIPS 2026)",
+                "homepage": null,
+                "id": 1448803755,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-06T22:24:45Z",
+                "open_issues": 0,
+                "owner": "EllenYiGe",
+                "repo": "PatternBloom",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EviBack",
+              "description": "GRPO + group post-normalization + teacher backoff Single Outcome Multi Search-agent RL for small models (Qwen3 0.6B–4B) Rule/Model (teacher) Yes (retriever)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EviBack: Reinforcement Learning Search Agents via Evidence-Constrained Teacher Backoff",
+                "homepage": "https://chery-nextai.github.io/eviback/",
+                "id": 1314919710,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-04T01:07:42Z",
+                "open_issues": 1,
+                "owner": "chery-nextai",
+                "repo": "eviback",
+                "stars": 11,
+                "topics": [
+                  "agent",
+                  "agent-framework",
+                  "agent-skill",
+                  "agentic-ai",
+                  "agentic-search"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "PyRAG",
@@ -3968,7 +4314,7 @@
                 "open_issues": 1,
                 "owner": "ZMingHang",
                 "repo": "DeepRubric-Code",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -4074,11 +4420,11 @@
                 "id": 1215818612,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-08T12:33:09Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-17T03:53:07Z",
+                "open_issues": 2,
                 "owner": "inclusionAI",
                 "repo": "DR-Venus",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -4367,7 +4713,7 @@
                 "open_issues": 103,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 20147,
+                "stars": 20150,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -4419,7 +4765,7 @@
                 "open_issues": 14,
                 "owner": "inclusionAI",
                 "repo": "ASearcher",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -4847,7 +5193,7 @@
                 "open_issues": 40,
                 "owner": "PeterGriffinJin",
                 "repo": "Search-R1",
-                "stars": 5580,
+                "stars": 5582,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -4935,6 +5281,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "CUA-Lite",
+          "description": "2026.10 CUA-Lite team Paper slime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CUA-Lite: An Open Platform for Computer-Use Agents",
+            "homepage": "https://cua-lite.github.io/",
+            "id": 1343432847,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-10T00:24:14Z",
+            "open_issues": 16,
+            "owner": "cua-lite",
+            "repo": "cua-lite",
+            "stars": 127,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "SCALE-CUA",
           "description": "2026.7 Tsinghua (THUDM) Paper Custom (Ray + vLLM + Megatron-LM)",
           "children": [],
@@ -4949,7 +5316,7 @@
             "open_issues": 1,
             "owner": "THUDM",
             "repo": "SCALE-CUA",
-            "stars": 75,
+            "stars": 77,
             "topics": [
               "computer-use-agents",
               "llm-agents",
@@ -4974,7 +5341,7 @@
             "open_issues": 0,
             "owner": "OpenWebRL",
             "repo": "OpenWebRL",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -5126,7 +5493,7 @@
             "open_issues": 59,
             "owner": "bytedance",
             "repo": "UI-TARS",
-            "stars": 11697,
+            "stars": 11696,
             "topics": [
               "research"
             ]
@@ -5195,7 +5562,7 @@
             "open_issues": 25,
             "owner": "Mininglamp-AI",
             "repo": "Mano-P",
-            "stars": 2850,
+            "stars": 2851,
             "topics": [
               "computer-use-agents",
               "desktop-automation",
@@ -5378,7 +5745,7 @@
             "open_issues": 0,
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1429,
+            "stars": 1430,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -5689,7 +6056,7 @@
             "open_issues": 103,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 20147,
+            "stars": 20150,
             "topics": [
               "agent",
               "alibaba",
@@ -5708,6 +6075,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CUA-Lite",
+              "description": "GRPO Single Outcome Multi Open computer-use platform: browser/desktop/mobile, 30k+ verifiable tasks External Verifier Yes (GUI actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CUA-Lite: An Open Platform for Computer-Use Agents",
+                "homepage": "https://cua-lite.github.io/",
+                "id": 1343432847,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-10T00:24:14Z",
+                "open_issues": 16,
+                "owner": "cua-lite",
+                "repo": "cua-lite",
+                "stars": 127,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
               "title": "SCALE-CUA",
               "description": "GRPO (fully async, Frontier Sampling + visual context segmentation) Single Outcome Multi Computer Use (OSWorld, ScienceBoard; 24K+ synthesized verifiable tasks) External Verifier (executable judge functions) Yes (GUI actions in Docker desktop)",
               "children": [],
@@ -5722,7 +6110,7 @@
                 "open_issues": 1,
                 "owner": "THUDM",
                 "repo": "SCALE-CUA",
-                "stars": 75,
+                "stars": 77,
                 "topics": [
                   "computer-use-agents",
                   "llm-agents",
@@ -5747,7 +6135,7 @@
                 "open_issues": 0,
                 "owner": "OpenWebRL",
                 "repo": "OpenWebRL",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -5899,7 +6287,7 @@
                 "open_issues": 59,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11697,
+                "stars": 11696,
                 "topics": [
                   "research"
                 ]
@@ -5968,7 +6356,7 @@
                 "open_issues": 25,
                 "owner": "Mininglamp-AI",
                 "repo": "Mano-P",
-                "stars": 2850,
+                "stars": 2851,
                 "topics": [
                   "computer-use-agents",
                   "desktop-automation",
@@ -6151,7 +6539,7 @@
                 "open_issues": 0,
                 "owner": "OpenBMB",
                 "repo": "AgentCPM-GUI",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -6462,7 +6850,7 @@
                 "open_issues": 103,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 20147,
+                "stars": 20150,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -6488,6 +6876,111 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "StateAlign",
+          "description": "2026.11 RPI / IBM Research Paper Custom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1454775219,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-12T04:34:58Z",
+            "open_issues": 0,
+            "owner": "ZhexiLu",
+            "repo": "StateAlign",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-R2",
+          "description": "2026.11 Zhejiang University / Baidu Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agent-R2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+            "homepage": "https://zjureal.com/Agent-R2/",
+            "id": 1445238903,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-13T20:52:02Z",
+            "open_issues": 1,
+            "owner": "ZJU-REAL",
+            "repo": "Agent-R2",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ToolOPD",
+          "description": "2026.10 MagicAgent-Search Paper veRL (verl-agent)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ToolOPD: Credit-Aware On-Policy Distillation for Tool-Use Agents",
+            "homepage": null,
+            "id": 1425033524,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T02:53:36Z",
+            "open_issues": 5,
+            "owner": "MagicAgent-Search",
+            "repo": "ToolOPD",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ECHO",
+          "description": "2026.10 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ECHO",
+            "homepage": null,
+            "id": 1397514842,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-30T09:40:03Z",
+            "open_issues": 0,
+            "owner": "xid32",
+            "repo": "ECHO",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "qqr (RTI)",
+          "description": "2025.12 Alibaba (Tongyi) Paper slime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "qqr is an RL training framework for open-ended agents.",
+            "homepage": "https://tongyi-agent.github.io/blog/arenarl/",
+            "id": 1120946795,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T13:54:21Z",
+            "open_issues": 1,
+            "owner": "Alibaba-NLP",
+            "repo": "qqr",
+            "stars": 326,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "Tool-RL-Box",
@@ -6591,7 +7084,7 @@
             "open_issues": 1,
             "owner": "WxxShirley",
             "repo": "Agent-STAR",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "agent",
               "agentic-rl",
@@ -6939,7 +7432,7 @@
             "open_issues": 30,
             "owner": "Simple-Efficient",
             "repo": "RL-Factory",
-            "stars": 1788,
+            "stars": 1789,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -7019,11 +7512,11 @@
             "id": 948379879,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T02:41:15Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-17T05:09:10Z",
+            "open_issues": 65,
             "owner": "inclusionAI",
             "repo": "AWorld",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "agent-framework",
               "agent-learning",
@@ -7095,24 +7588,24 @@
           "children": [
             {
               "node_type": "item",
-              "title": "MUA-RL",
-              "description": "GRPO Single Outcome Multi Multi-turn user-interacting agentic tool use (tau-bench/tau2-bench/ACEBench) Rule-Based (task completion) Yes (simulated user + tool APIs)",
+              "title": "qqr (RTI)",
+              "description": "GRPO / ArenaRL / Rollout-Time Intervention Single Outcome Multi Open-ended MCP agents (deep research, travel, VitaBench) Model/Rule Yes (MCP tools)",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "MUA-RL: MULTI-TURN USER-INTERACTING AGENT REINFORCEMENT LEARNING FOR AGENTIC TOOL USE",
-                "homepage": null,
-                "id": 1044035004,
+                "description": "qqr is an RL training framework for open-ended agents.",
+                "homepage": "https://tongyi-agent.github.io/blog/arenarl/",
+                "id": 1120946795,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2025-11-05T05:46:27Z",
-                "open_issues": 4,
-                "owner": "zzwkk",
-                "repo": "MUA-RL",
-                "stars": 68,
+                "last_commit": "2026-11-02T13:54:21Z",
+                "open_issues": 1,
+                "owner": "Alibaba-NLP",
+                "repo": "qqr",
+                "stars": 326,
                 "topics": []
               },
-              "first_seen": "2026-08-28T21:04:24.661Z"
+              "first_seen": "2026-11-17T18:56:11.652Z"
             },
             {
               "node_type": "item",
@@ -7217,7 +7710,7 @@
                 "open_issues": 1,
                 "owner": "WxxShirley",
                 "repo": "Agent-STAR",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "agent",
                   "agentic-rl",
@@ -7544,7 +8037,7 @@
                 "open_issues": 30,
                 "owner": "Simple-Efficient",
                 "repo": "RL-Factory",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -7624,11 +8117,11 @@
                 "id": 948379879,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T02:41:15Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-17T05:09:10Z",
+                "open_issues": 65,
                 "owner": "inclusionAI",
                 "repo": "AWorld",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": [
                   "agent-framework",
                   "agent-learning",
@@ -7697,7 +8190,7 @@
               "first_seen": "2026-08-28T21:04:24.661Z"
             }
           ],
-          "description": "| Github Repo | RL Algorithm | Single/Multi Agent | Outcome/Process Reward | Single/Multi Turn | Task | Reward Type | Tool usage |",
+          "description": "| Github Repo | RL Algorithm | Single/Multi Agent | Outcome/Process Reward | Single/Multi Turn | Task | Reward Type | Tool usage | | MUA-RL | GRPO | Single | Outcome | Multi | Multi-turn user-interacting agentic tool use (tau-bench/tau2-bench/ACEBench) | Rule-Based (task completion) | Yes (simulated user + tool APIs) | | StateAlign | GRPO + state-contrast objective | Single | Both | Multi | State-aware multi-turn function calling (BFCL multi-turn) | Rule/Custom | Yes (function calls) | | Agent-R2 | GRPO (rubric-based, after SFT) | Single | Outcome | Multi | Realistic productivity/office agents (GDPval, OfficeQA) from real-source task synthesis | Model/Rule | Yes (sandbox tools) | | ToolOPD | RL + credit-aware on-policy distillation | Single | Both | Multi | Long-horizon tool use (ALFWorld/WebShop/Search QA) | Rule + teacher credit | Yes | | ECHO | PPO/GRPO with responsibility-aware turn credit | Single | Process | Multi | Multi-turn tool use (τ²-bench/BFCL/ACEBench) | Model/Rule | Yes (function calls) |",
           "node_type": "group",
           "title": "📋 Click to view technical details"
         }
@@ -7707,6 +8200,119 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Video-Coder",
+          "description": "2026.11 Academic Paper uni-agent (veRL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+            "homepage": "https://cywang735.github.io/Video-Coder/",
+            "id": 1443543111,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-13T21:14:52Z",
+            "open_issues": 4,
+            "owner": "CYWang735",
+            "repo": "Video-Coder",
+            "stars": 73,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Ladder",
+          "description": "2026.10 Academic Paper veRL + rLLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SWE-Ladder: Learning to Localize, Reproduce, and Patch via Progressive Privileged Self-Distillation.",
+            "homepage": null,
+            "id": 1416911229,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T07:35:59Z",
+            "open_issues": 0,
+            "owner": "sekongger",
+            "repo": "SWE-Ladder",
+            "stars": 7,
+            "topics": [
+              "grpo",
+              "llm-agents",
+              "on-policy-distillation",
+              "reinforcement-learning",
+              "self-distillation",
+              "software-engineering-agents",
+              "swe-bench"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Self-HPO",
+          "description": "2026.10 Microsoft Research Paper slime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-HPO: self-improving harness + policy co-optimization for agentic SWE",
+            "homepage": null,
+            "id": 1413624407,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-19T19:23:28Z",
+            "open_issues": 2,
+            "owner": "MSR-Orchard",
+            "repo": "Self-HPO",
+            "stars": 67,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SPROUT",
+          "description": "2026.10 RISE-X-Lab Paper Miles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1388613330,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-10T05:28:15Z",
+            "open_issues": 1,
+            "owner": "RISE-X-Lab",
+            "repo": "SPROUT",
+            "stars": 365,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AutoEnvScaling",
+          "description": "2026.10 Microsoft Research Paper Miles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AutoEnvScaling: Automating the Data Flywheel with Terminal Agents",
+            "homepage": null,
+            "id": 1394404365,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-06T01:28:18Z",
+            "open_issues": 0,
+            "owner": "MSR-Orchard",
+            "repo": "AutoEnvScaling",
+            "stars": 43,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "Lego-RL",
@@ -7902,7 +8508,7 @@
             "open_issues": 27,
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4819,
+            "stars": 4825,
             "topics": [
               "agent",
               "agentic",
@@ -8106,7 +8712,7 @@
             "open_issues": 1,
             "owner": "yongchao98",
             "repo": "R1-Code-Interpreter",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "code-interpreter",
               "large-language-models",
@@ -8196,7 +8802,7 @@
             "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "swe-rl",
-            "stars": 722,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8263,7 +8869,7 @@
             "open_issues": 11,
             "owner": "agentica-project",
             "repo": "rllm",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8291,6 +8897,119 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Video-Coder",
+              "description": "GRPO Single Outcome Multi Agentic Blender-Python coding for draft-video generation Model/Rule Yes (code execution, Blender)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+                "homepage": "https://cywang735.github.io/Video-Coder/",
+                "id": 1443543111,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-13T21:14:52Z",
+                "open_issues": 4,
+                "owner": "CYWang735",
+                "repo": "Video-Coder",
+                "stars": 73,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SWE-Ladder",
+              "description": "GRPO + progressive privileged self-distillation Single Both Multi Repo-level issue resolving (localize→reproduce→patch) External Verifier (tests) + Rule Yes (bash/edit sandbox)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SWE-Ladder: Learning to Localize, Reproduce, and Patch via Progressive Privileged Self-Distillation.",
+                "homepage": null,
+                "id": 1416911229,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T07:35:59Z",
+                "open_issues": 0,
+                "owner": "sekongger",
+                "repo": "SWE-Ladder",
+                "stars": 7,
+                "topics": [
+                  "grpo",
+                  "llm-agents",
+                  "on-policy-distillation",
+                  "reinforcement-learning",
+                  "self-distillation",
+                  "software-engineering-agents",
+                  "swe-bench"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Self-HPO",
+              "description": "GRPO (alternating harness/policy steps) Single Outcome Multi Co-evolving coding-agent harness and policy on SWE-bench External Verifier (tests) Yes (mini-swe-agent bash)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-HPO: self-improving harness + policy co-optimization for agentic SWE",
+                "homepage": null,
+                "id": 1413624407,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-19T19:23:28Z",
+                "open_issues": 2,
+                "owner": "MSR-Orchard",
+                "repo": "Self-HPO",
+                "stars": 67,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SPROUT",
+              "description": "GRPO-family with checkpoint-branching exploration Single Outcome Multi Long-horizon SWE with per-turn sandbox snapshots & branching External Verifier Yes (sandboxed shell)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1388613330,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-10T05:28:15Z",
+                "open_issues": 1,
+                "owner": "RISE-X-Lab",
+                "repo": "SPROUT",
+                "stars": 365,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AutoEnvScaling",
+              "description": "GRPO-style self-play Single Outcome Multi Terminal agents author their own Harbor environments and train on them External Verifier + Rule Yes (terminal)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AutoEnvScaling: Automating the Data Flywheel with Terminal Agents",
+                "homepage": null,
+                "id": 1394404365,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T01:28:18Z",
+                "open_issues": 0,
+                "owner": "MSR-Orchard",
+                "repo": "AutoEnvScaling",
+                "stars": 43,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "Lego-RL",
@@ -8486,7 +9205,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4819,
+                "stars": 4825,
                 "topics": [
                   "agent",
                   "agentic",
@@ -8690,7 +9409,7 @@
                 "open_issues": 1,
                 "owner": "yongchao98",
                 "repo": "R1-Code-Interpreter",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "code-interpreter",
                   "large-language-models",
@@ -8780,7 +9499,7 @@
                 "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "swe-rl",
-                "stars": 722,
+                "stars": 723,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8847,7 +9566,7 @@
                 "open_issues": 11,
                 "owner": "agentica-project",
                 "repo": "rllm",
-                "stars": 415,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8900,7 +9619,7 @@
             "open_issues": 13,
             "owner": "aiming-lab",
             "repo": "Agent0",
-            "stars": 1288,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8921,7 +9640,7 @@
             "open_issues": 1,
             "owner": "Jinyeop3110",
             "repo": "KG-R1",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -8942,7 +9661,7 @@
             "open_issues": 15,
             "owner": "lupantech",
             "repo": "AgentFlow",
-            "stars": 2091,
+            "stars": 2093,
             "topics": [
               "agentic-ai",
               "agentic-systems",
@@ -9265,7 +9984,7 @@
                 "open_issues": 13,
                 "owner": "aiming-lab",
                 "repo": "Agent0",
-                "stars": 1288,
+                "stars": 1290,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -9286,7 +10005,7 @@
                 "open_issues": 1,
                 "owner": "Jinyeop3110",
                 "repo": "KG-R1",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -9307,7 +10026,7 @@
                 "open_issues": 15,
                 "owner": "lupantech",
                 "repo": "AgentFlow",
-                "stars": 2091,
+                "stars": 2093,
                 "topics": [
                   "agentic-ai",
                   "agentic-systems",
@@ -9623,6 +10342,27 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "OPSD4MAS",
+          "description": "2026.11 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for OPSD4MAS",
+            "homepage": null,
+            "id": 1454731115,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-16T06:36:45Z",
+            "open_issues": 0,
+            "owner": "Camel-Prince",
+            "repo": "OPSD4MAS",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "NeuroMAS",
@@ -9966,6 +10706,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "OPSD4MAS",
+              "description": "Agent-wise GRPO + on-policy self-distillation Multi Both Multi Solver–Verifier multi-agent reasoning; inter-agent messages → token-level credit Rule/Model No",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for OPSD4MAS",
+                "homepage": null,
+                "id": 1454731115,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:36:45Z",
+                "open_issues": 0,
+                "owner": "Camel-Prince",
+                "repo": "OPSD4MAS",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "NeuroMAS",
@@ -10320,6 +11081,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MemPilot",
+          "description": "2026.10 NTU / THU / UIUC Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1398402601,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T15:57:54Z",
+            "open_issues": 1,
+            "owner": "ViktorAxelsen",
+            "repo": "MemPilot",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AMBER",
+          "description": "2026.10 Academic Paper Miles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1334529644,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-24T16:14:40Z",
+            "open_issues": 0,
+            "owner": "agentic-foundation-modeling-research",
+            "repo": "amber",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "MemPrism",
           "description": "2026.8 Academic Paper veRL",
           "children": [],
@@ -10460,7 +11263,7 @@
             "open_issues": 18,
             "owner": "ByteDance-Seed",
             "repo": "m3-agent",
-            "stars": 1476,
+            "stars": 1477,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -10481,7 +11284,7 @@
             "open_issues": 14,
             "owner": "Memento-Teams",
             "repo": "Memento",
-            "stars": 2679,
+            "stars": 2701,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -10509,6 +11312,48 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "MemPilot",
+              "description": "GDPO/GRPO (resource-aware) Single Outcome Multi On-demand multimodal memory curation/orchestration Model/Rule (quality, cost, latency) Yes (memory-access tools)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1398402601,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T15:57:54Z",
+                "open_issues": 1,
+                "owner": "ViktorAxelsen",
+                "repo": "MemPilot",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AMBER",
+              "description": "GRPO (after SFT) Single Outcome Multi Long-horizon WebArena agents with append-only browser-evidence memory External Verifier (WebArena) Yes (browser)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1334529644,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-24T16:14:40Z",
+                "open_issues": 0,
+                "owner": "agentic-foundation-modeling-research",
+                "repo": "amber",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "MemPrism",
@@ -10651,7 +11496,7 @@
                 "open_issues": 18,
                 "owner": "ByteDance-Seed",
                 "repo": "m3-agent",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -10672,7 +11517,7 @@
                 "open_issues": 14,
                 "owner": "Memento-Teams",
                 "repo": "Memento",
-                "stars": 2679,
+                "stars": 2701,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -10709,6 +11554,48 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "PEAR",
+          "description": "2026.11 MIT Han Lab Paper veRL (fully async)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+            "homepage": null,
+            "id": 1456913583,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-16T07:54:56Z",
+            "open_issues": 4,
+            "owner": "mit-han-lab",
+            "repo": "pear",
+            "stars": 605,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AgenticRoboRL",
+          "description": "2026.10 Academic Paper Custom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Post-training robot planners with SFT and multi-turn RL across agentic robotics harnesses",
+            "homepage": "https://xinxinliu-ai.github.io/AgenticRoboRL/",
+            "id": 1422461340,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-06T07:08:04Z",
+            "open_issues": 2,
+            "owner": "xinxinliu-ai",
+            "repo": "AgenticRoboRL",
+            "stars": 72,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "REAL",
@@ -10837,6 +11724,48 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "PEAR",
+              "description": "GRPO + dynamic sampling Single Outcome Multi Train reasoning models in simulation to natively call real robots (LIBERO/RoboDojo) External Verifier (sim success) Yes (robot tool APIs)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+                "homepage": null,
+                "id": 1456913583,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T07:54:56Z",
+                "open_issues": 4,
+                "owner": "mit-han-lab",
+                "repo": "pear",
+                "stars": 605,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AgenticRoboRL",
+              "description": "PPO (dual-clip) Single Outcome Multi Coding-agent post-training for agentic robotics (LIBERO-PRO) External Verifier Yes (robot code APIs)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Post-training robot planners with SFT and multi-turn RL across agentic robotics harnesses",
+                "homepage": "https://xinxinliu-ai.github.io/AgenticRoboRL/",
+                "id": 1422461340,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T07:08:04Z",
+                "open_issues": 2,
+                "owner": "xinxinliu-ai",
+                "repo": "AgenticRoboRL",
+                "stars": 72,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "REAL",
@@ -10976,6 +11905,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AlphaBet",
+          "description": "2026.10 Georgia Tech / Amazon Paper slime Forecasting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1413917585,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-26T01:53:15Z",
+            "open_issues": 0,
+            "owner": "AlphaBet-Agent",
+            "repo": "AlphaBet",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BIRD-RL",
+          "description": "2026.10 BIRD team Paper veRL Text-to-SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-Source Agentic RL for SQL Tasks",
+            "homepage": null,
+            "id": 1174897897,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-22T02:11:11Z",
+            "open_issues": 0,
+            "owner": "bird-bench",
+            "repo": "BIRD-RL",
+            "stars": 241,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HarnessSQL",
+          "description": "2026.10 Academic Paper slime Text-to-SQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Harness-aware SQL data generation, dsh-sql trajectories, SFT, and RL",
+            "homepage": null,
+            "id": 1402606744,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-17T15:30:14Z",
+            "open_issues": 0,
+            "owner": "YangHaolin0526",
+            "repo": "HarnessSQL",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Legal-R1",
+          "description": "2026.10 Academic Paper veRL Legal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "agentic retrieval for legal LLM",
+            "homepage": null,
+            "id": 1249996314,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-11T05:03:45Z",
+            "open_issues": 0,
+            "owner": "killerqueen-wonder",
+            "repo": "Legal-R1",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "FaithMed",
           "description": "2026.7 CMU Paper veRL + verl-agent Medical",
           "children": [],
@@ -11056,7 +12069,7 @@
             "open_issues": 0,
             "owner": "HowardLi1984",
             "repo": "ChemCraft",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -11212,7 +12225,7 @@
             "open_issues": 137,
             "owner": "snap-stanford",
             "repo": "Biomni",
-            "stars": 4088,
+            "stars": 4090,
             "topics": [
               "agent",
               "ai",
@@ -11223,6 +12236,90 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "AlphaBet",
+              "description": "GRPO (mean-centered) Single Outcome Multi Event-forecasting agent with news search + code Rule-Based (Brier score) Yes (search, Python, MCP)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1413917585,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-26T01:53:15Z",
+                "open_issues": 0,
+                "owner": "AlphaBet-Agent",
+                "repo": "AlphaBet",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BIRD-RL",
+              "description": "GRPO (4-stage curriculum) Single Outcome Both SQL issue solving over stateful databases (BIRD-CRITIC) External Verifier Yes (SQL executor)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-Source Agentic RL for SQL Tasks",
+                "homepage": null,
+                "id": 1174897897,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-22T02:11:11Z",
+                "open_issues": 0,
+                "owner": "bird-bench",
+                "repo": "BIRD-RL",
+                "stars": 241,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HarnessSQL",
+              "description": "GRPO (execution reward, after harness-native SFT) Single Outcome Multi SQL/dbt agents in realistic DB environments (Spider 2.0) External Verifier Yes (dsh-sql harness)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Harness-aware SQL data generation, dsh-sql trajectories, SFT, and RL",
+                "homepage": null,
+                "id": 1402606744,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-17T15:30:14Z",
+                "open_issues": 0,
+                "owner": "YangHaolin0526",
+                "repo": "HarnessSQL",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Legal-R1",
+              "description": "PPO/GRPO Single Outcome Multi Evidence-based legal QA via multi-turn authority-aware retrieval Model-Based Yes (legal retriever)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "agentic retrieval for legal LLM",
+                "homepage": null,
+                "id": 1249996314,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-11T05:03:45Z",
+                "open_issues": 0,
+                "owner": "killerqueen-wonder",
+                "repo": "Legal-R1",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "FaithMed",
@@ -11305,7 +12402,7 @@
                 "open_issues": 0,
                 "owner": "HowardLi1984",
                 "repo": "ChemCraft",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -11461,7 +12558,7 @@
                 "open_issues": 137,
                 "owner": "snap-stanford",
                 "repo": "Biomni",
-                "stars": 4088,
+                "stars": 4090,
                 "topics": [
                   "agent",
                   "ai",
@@ -11483,6 +12580,111 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Mosaic",
+          "description": "2026.10 LARK-AI-Lab Paper Multi-session credit assignment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Exploring Multi-Session Agentic Reinforcement Learning",
+            "homepage": "https://lark-ai-lab.github.io/Mosaic/",
+            "id": 1412924439,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-16T04:32:16Z",
+            "open_issues": 4,
+            "owner": "LARK-AI-Lab",
+            "repo": "Mosaic",
+            "stars": 40,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ConCal",
+          "description": "2026.10 Academic Paper Step-level action-value calibration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Implementation of paper \"Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning\"",
+            "homepage": "https://www.alphaxiv.org/pdf/2610.37195",
+            "id": 1435604372,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-16T02:52:22Z",
+            "open_issues": 0,
+            "owner": "Yingjian-Chen",
+            "repo": "ConCal",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FocalRL",
+          "description": "2026.10 Microsoft -- Focal credit assignment / local repair rewards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code for \"Focal Credit Assignment for Ultra Long-Horizon Agentic Reinforcement Learning\"",
+            "homepage": null,
+            "id": 1409852715,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-09T06:01:07Z",
+            "open_issues": 1,
+            "owner": "microsoft",
+            "repo": "FocalRL",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DARS",
+          "description": "2026.10 Zhejiang University Paper Dependency-aware reward shaping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
+            "homepage": null,
+            "id": 1399355953,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-04T03:05:37Z",
+            "open_issues": 0,
+            "owner": "JianhuiWei7",
+            "repo": "DARS",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SAPO",
+          "description": "2026.8 NTU Paper Single-rollout policy optimization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A PPO-style Agentic RL framework without a separate critic model and multiple rollouts",
+            "homepage": null,
+            "id": 1337931433,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T07:07:30Z",
+            "open_issues": 6,
+            "owner": "dy-liang",
+            "repo": "SAPO",
+            "stars": 72,
+            "topics": []
+          },
+          "first_seen": "2026-10-10T15:40:46.083Z"
+        },
+        {
+          "node_type": "item",
           "title": "Agent-G²",
           "description": "2026.8 Zhejiang University / Baidu (EMNLP'26) Paper Exploration guidance under sparse reward",
           "children": [],
@@ -11497,7 +12699,7 @@
             "open_issues": 1,
             "owner": "ZJU-REAL",
             "repo": "Agent-G2",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -11634,7 +12836,7 @@
             "open_issues": 1,
             "owner": "thuml",
             "repo": "RLVR-World",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "grpo",
               "real2sim",
@@ -11741,6 +12943,111 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Mosaic",
+              "description": "GRPO with per-session advantages Both Both Multi Search agents with context compaction & sub-agent forking Rule-Based Yes (search, compaction, sub-agent)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Exploring Multi-Session Agentic Reinforcement Learning",
+                "homepage": "https://lark-ai-lab.github.io/Mosaic/",
+                "id": 1412924439,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-16T04:32:16Z",
+                "open_issues": 4,
+                "owner": "LARK-AI-Lab",
+                "repo": "Mosaic",
+                "stars": 40,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ConCal",
+              "description": "GiGPO extension (continuation sharing) Single Both Multi ALFWorld/WebShop/Sokoban/AppWorld Rule-Based Yes (env actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of paper \"Action-Value Calibration via Continuation Sharing for Long-Horizon Agentic Reinforcement Learning\"",
+                "homepage": "https://www.alphaxiv.org/pdf/2610.37195",
+                "id": 1435604372,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T02:52:22Z",
+                "open_issues": 0,
+                "owner": "Yingjian-Chen",
+                "repo": "ConCal",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FocalRL",
+              "description": "GRPO (Miles) with branching from pre-error states Single Both Multi Ultra-long-horizon deep research (BrowseComp) & SWE Model + External Verifier Yes (web search/browse, SWE sandbox)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"Focal Credit Assignment for Ultra Long-Horizon Agentic Reinforcement Learning\"",
+                "homepage": null,
+                "id": 1409852715,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-09T06:01:07Z",
+                "open_issues": 1,
+                "owner": "microsoft",
+                "repo": "FocalRL",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DARS",
+              "description": "GRPO/GiGPO/RLOO + potential-based shaping Single Process Multi ALFWorld/WebShop step-level credit Custom Yes (env actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
+                "homepage": null,
+                "id": 1399355953,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-04T03:05:37Z",
+                "open_issues": 0,
+                "owner": "JianhuiWei7",
+                "repo": "DARS",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SAPO",
+              "description": "SAPO (single-rollout, shared policy/value) Single Outcome Multi Long-horizon agent RL (ALFWorld/WebShop) Rule-Based No (env actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A PPO-style Agentic RL framework without a separate critic model and multiple rollouts",
+                "homepage": null,
+                "id": 1337931433,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-17T07:07:30Z",
+                "open_issues": 6,
+                "owner": "dy-liang",
+                "repo": "SAPO",
+                "stars": 72,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T15:40:46.083Z"
+            },
+            {
+              "node_type": "item",
               "title": "Agent-G²",
               "description": "GRPO + Gaussian-guided adaptive-depth exploration Single Outcome Multi ALFWorld / WebShop Rule-Based/External Yes (interactive env actions)",
               "children": [],
@@ -11755,7 +13062,7 @@
                 "open_issues": 1,
                 "owner": "ZJU-REAL",
                 "repo": "Agent-G2",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -11892,7 +13199,7 @@
                 "open_issues": 1,
                 "owner": "thuml",
                 "repo": "RLVR-World",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "grpo",
                   "real2sim",
@@ -12008,6 +13315,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "PROBE",
+          "description": "2026.10 MBZUAI Paper Custom (vLLM + QLoRA)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Auditing Agents Policy Optimization",
+            "homepage": null,
+            "id": 1159433529,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-15T15:32:47Z",
+            "open_issues": 0,
+            "owner": "Mishrakshitij",
+            "repo": "PROBE",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SEMA",
+          "description": "2026.4 Microsoft Paper Custom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ICLR 2026",
+            "homepage": null,
+            "id": 1198678476,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T07:30:54Z",
+            "open_issues": 4,
+            "owner": "microsoft",
+            "repo": "SEMA",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "ToolSafe",
           "description": "2026.1 Academic (MurrayTom) Paper veRL",
           "children": [],
@@ -12082,7 +13431,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-07-16T01:49:25Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "yuki-younai",
             "repo": "Jailbreak-R1",
             "stars": 17,
@@ -12199,6 +13548,48 @@
           "children": [
             {
               "node_type": "item",
+              "title": "PROBE",
+              "description": "GRPO (also DPO/GFlowNet baselines) Single Outcome Multi RL-trained auditor eliciting policy violations of tool-using agents Rule/Model Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Auditing Agents Policy Optimization",
+                "homepage": null,
+                "id": 1159433529,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-15T15:32:47Z",
+                "open_issues": 0,
+                "owner": "Mishrakshitij",
+                "repo": "PROBE",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SEMA",
+              "description": "Prefill self-tuning + GRPO Single Outcome Multi Multi-turn jailbreak attacker training (red-teaming), ICLR 2026 Model (intent-drift-aware) + Rule No",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICLR 2026",
+                "homepage": null,
+                "id": 1198678476,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-02T07:30:54Z",
+                "open_issues": 4,
+                "owner": "microsoft",
+                "repo": "SEMA",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
               "title": "ToolSafe",
               "description": "Multi-task GRPO Single Process Multi Tool-Invocation Safety Guardrail Rule + Model Yes (tool monitoring)",
               "children": [],
@@ -12273,7 +13664,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-07-16T01:49:25Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "yuki-younai",
                 "repo": "Jailbreak-R1",
                 "stars": 17,
@@ -12397,6 +13788,90 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "ModalSearcher",
+          "description": "2026.11 Academic Paper veRL + rLLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1443775027,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-09T14:27:32Z",
+            "open_issues": 0,
+            "owner": "Hans-M-Yin",
+            "repo": "ModalSearcher",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Neos",
+          "description": "2026.10 Accio-Lab Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1412808426,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-14T05:02:46Z",
+            "open_issues": 0,
+            "owner": "Accio-Lab",
+            "repo": "Neos",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OneSearch-VL",
+          "description": "2026.10 Academic Paper veRL + rLLM (async)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A unified multimodal deep research agent for images and videos, with open models, datasets, and training and evaluation code.",
+            "homepage": null,
+            "id": 1410334976,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-11T22:41:38Z",
+            "open_issues": 1,
+            "owner": "appletea233",
+            "repo": "OneSearch-VL",
+            "stars": 200,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VideoResearchAgent",
+          "description": "2026.10 Academic Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1401051943,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T03:28:18Z",
+            "open_issues": 0,
+            "owner": "Ralph-Zhou",
+            "repo": "VideoResearchAgent",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "InSight-doc",
@@ -12556,7 +14031,7 @@
             "open_issues": 6,
             "owner": "shawn0728",
             "repo": "OpenSearch-VL",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "deep-research-agent",
               "multimodal",
@@ -12605,7 +14080,7 @@
             "open_issues": 6,
             "owner": "tulerfeng",
             "repo": "Gen-Searcher",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -12759,7 +14234,7 @@
             "open_issues": 16,
             "owner": "Mini-o3",
             "repo": "Mini-o3",
-            "stars": 433,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -12848,7 +14323,7 @@
             "open_issues": 93,
             "owner": "Visual-Agent",
             "repo": "DeepEyes",
-            "stars": 1291,
+            "stars": 1292,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -13097,6 +14572,90 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ModalSearcher",
+              "description": "RLOO Single Outcome Multi Cross-modal deep search weaving visual evidence (Qwen3-VL-8B) Model-Based Yes (web search, read_url, image search)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1443775027,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-09T14:27:32Z",
+                "open_issues": 0,
+                "owner": "Hans-M-Yin",
+                "repo": "ModalSearcher",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Neos",
+              "description": "GRPO-style RL alternating with evidence-interface SFT Single Outcome Multi Interleaving web search and visual reasoning (agent–tool co-evolution) Model-Based Yes (web search, image tools)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1412808426,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T05:02:46Z",
+                "open_issues": 0,
+                "owner": "Accio-Lab",
+                "repo": "Neos",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OneSearch-VL",
+              "description": "GRPO-style Single Both Multi Unified image/video multimodal deep research Model (rubric) + Rule Yes (web search, image/video tools)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A unified multimodal deep research agent for images and videos, with open models, datasets, and training and evaluation code.",
+                "homepage": null,
+                "id": 1410334976,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-11T22:41:38Z",
+                "open_issues": 1,
+                "owner": "appletea233",
+                "repo": "OneSearch-VL",
+                "stars": 200,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VideoResearchAgent",
+              "description": "RDR-GRPO Single Outcome Multi Open-web video research with grounded task synthesis & sim-to-real RL Model/Rule Yes (YouTube search, frame extraction)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1401051943,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T03:28:18Z",
+                "open_issues": 0,
+                "owner": "Ralph-Zhou",
+                "repo": "VideoResearchAgent",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
               "title": "InSight-doc",
               "description": "SFT cold-start + GRPO Single Both Multi Long/multi-page document VQA (DUDE/MP-DocVQA) Rule-Based Yes (zoom-in tool)",
               "children": [],
@@ -13254,7 +14813,7 @@
                 "open_issues": 6,
                 "owner": "shawn0728",
                 "repo": "OpenSearch-VL",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "deep-research-agent",
                   "multimodal",
@@ -13303,7 +14862,7 @@
                 "open_issues": 6,
                 "owner": "tulerfeng",
                 "repo": "Gen-Searcher",
-                "stars": 405,
+                "stars": 406,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -13457,7 +15016,7 @@
                 "open_issues": 16,
                 "owner": "Mini-o3",
                 "repo": "Mini-o3",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -13546,7 +15105,7 @@
                 "open_issues": 93,
                 "owner": "Visual-Agent",
                 "repo": "DeepEyes",
-                "stars": 1291,
+                "stars": 1292,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -13804,6 +15363,94 @@
       "items": [
         {
           "node_type": "item",
+          "title": "RSIPO",
+          "description": "2026.10 Academic Paper veRL (verl-agent)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official repository for the paper “RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution”",
+            "homepage": null,
+            "id": 1414354154,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-26T09:02:05Z",
+            "open_issues": 2,
+            "owner": "zfkarl",
+            "repo": "RSIPO",
+            "stars": 318,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Distillation-AgentRL",
+          "description": "2026.10 Zhejiang University (AIM) Paper veRL (verl-agent)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+            "homepage": "https://aim-uofa.github.io/Self-Distillation-AgentRL/",
+            "id": 1418455494,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-15T03:17:31Z",
+            "open_issues": 0,
+            "owner": "aim-uofa",
+            "repo": "Self-Distillation-AgentRL",
+            "stars": 93,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SkillScaffold",
+          "description": "2026.10 Academic Paper slime / AReaL-style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection",
+            "homepage": null,
+            "id": 1417222705,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-14T10:44:38Z",
+            "open_issues": 1,
+            "owner": "Vaidurya00",
+            "repo": "SkillScaffold",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EvoHarness-RL",
+          "description": "2026.10 EvoHarnessRL Paper veRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EvoHarness-RL: Learning Runtime Harness Coordination for Self-Evolving Agents",
+            "homepage": "https://evoharnessrl.github.io/",
+            "id": 1406254899,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-09T03:39:05Z",
+            "open_issues": 0,
+            "owner": "EvoHarnessRL",
+            "repo": "EvoHarness-RL",
+            "stars": 32,
+            "topics": [
+              "agents",
+              "harness-engineering",
+              "self-evolving"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
           "title": "AgentOPSD",
           "description": "2026.8 Academic Paper veRL",
           "children": [],
@@ -14011,7 +15658,7 @@
             "open_issues": 7,
             "owner": "ViktorAxelsen",
             "repo": "MemSkill",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14053,7 +15700,7 @@
             "open_issues": 25,
             "owner": "modelscope",
             "repo": "AgentEvolver",
-            "stars": 1594,
+            "stars": 1597,
             "topics": [
               "agent",
               "agent-system",
@@ -14080,7 +15727,7 @@
             "open_issues": 0,
             "owner": "KnowledgeXLab",
             "repo": "EvolveR",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14152,7 +15799,7 @@
             "open_issues": 3,
             "owner": "LeapLabTHU",
             "repo": "Absolute-Zero-Reasoner",
-            "stars": 1931,
+            "stars": 1932,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14173,7 +15820,7 @@
             "open_issues": 31,
             "owner": "mll-lab-nu",
             "repo": "RAGEN",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "agent-rl",
               "agentic-ai",
@@ -14201,13 +15848,101 @@
             "open_issues": 0,
             "owner": "THUDM",
             "repo": "WebRL",
-            "stars": 540,
+            "stars": 541,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "RSIPO",
+              "description": "GRPO + on-policy self-distillation Single Both Multi Skill–policy co-evolution (ALFWorld, multi-hop search QA) Rule-Based Yes (search, env actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for the paper “RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution”",
+                "homepage": null,
+                "id": 1414354154,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-26T09:02:05Z",
+                "open_issues": 2,
+                "owner": "zfkarl",
+                "repo": "RSIPO",
+                "stars": 318,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Distillation-AgentRL",
+              "description": "GRPO vs. ten self-distillation variants Single Both Multi Reality check of self-distillation in agentic RL (ALFWorld/ScienceWorld/WebShop) Rule-Based Yes (env actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+                "homepage": "https://aim-uofa.github.io/Self-Distillation-AgentRL/",
+                "id": 1418455494,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-15T03:17:31Z",
+                "open_issues": 0,
+                "owner": "aim-uofa",
+                "repo": "Self-Distillation-AgentRL",
+                "stars": 93,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SkillScaffold",
+              "description": "GRPO + skill credit assignment & selective injection Single Both Multi ALFWorld/ScienceWorld/WebShop/τ-bench Rule-Based Yes (env/tool APIs)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection",
+                "homepage": null,
+                "id": 1417222705,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T10:44:38Z",
+                "open_issues": 1,
+                "owner": "Vaidurya00",
+                "repo": "SkillScaffold",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EvoHarness-RL",
+              "description": "GRPO/PPO Single Outcome Multi Jointly optimizing agent and runtime harness (ALFWorld/WebShop/WebArena) Rule-Based Yes (belief/progress/experience harness actions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EvoHarness-RL: Learning Runtime Harness Coordination for Self-Evolving Agents",
+                "homepage": "https://evoharnessrl.github.io/",
+                "id": 1406254899,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T03:39:05Z",
+                "open_issues": 0,
+                "owner": "EvoHarnessRL",
+                "repo": "EvoHarness-RL",
+                "stars": 32,
+                "topics": [
+                  "agents",
+                  "harness-engineering",
+                  "self-evolving"
+                ]
+              },
+              "first_seen": "2026-11-17T18:56:11.652Z"
+            },
             {
               "node_type": "item",
               "title": "BaT",
@@ -14417,7 +16152,7 @@
                 "open_issues": 7,
                 "owner": "ViktorAxelsen",
                 "repo": "MemSkill",
-                "stars": 604,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14459,7 +16194,7 @@
                 "open_issues": 25,
                 "owner": "modelscope",
                 "repo": "AgentEvolver",
-                "stars": 1594,
+                "stars": 1597,
                 "topics": [
                   "agent",
                   "agent-system",
@@ -14486,7 +16221,7 @@
                 "open_issues": 0,
                 "owner": "KnowledgeXLab",
                 "repo": "EvolveR",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14558,7 +16293,7 @@
                 "open_issues": 3,
                 "owner": "LeapLabTHU",
                 "repo": "Absolute-Zero-Reasoner",
-                "stars": 1931,
+                "stars": 1932,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14579,7 +16314,7 @@
                 "open_issues": 31,
                 "owner": "mll-lab-nu",
                 "repo": "RAGEN",
-                "stars": 2843,
+                "stars": 2844,
                 "topics": [
                   "agent-rl",
                   "agentic-ai",
@@ -14607,7 +16342,7 @@
                 "open_issues": 0,
                 "owner": "THUDM",
                 "repo": "WebRL",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:04:24.661Z"
@@ -14623,6 +16358,98 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "CAMG-II",
+          "description": "2026.11 JD Long-horizon file-as-memory env suite (Shop/Coding/AutoResearch/Visual) with verl PPO + OPD recipes; Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CAMG-II environments with CAMP reinforcement learning and CAMP-II on-policy distillation for long-horizon agents.",
+            "homepage": null,
+            "id": 1454775920,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-12T10:27:33Z",
+            "open_issues": 0,
+            "owner": "jd-opensource",
+            "repo": "CodingAgentMemoryGym",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "miroir",
+          "description": "2026.11 Independent Turns Dockerised products (Gitea, CRM, …) into resettable, state-diff-graded agentic RL envs via OpenEnv/MCP; TRL GRPO example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn a product into an agentic RL environment",
+            "homepage": "https://raphaeldkhn.github.io/miroir/",
+            "id": 1452314111,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T09:59:25Z",
+            "open_issues": 0,
+            "owner": "raphaelDkhn",
+            "repo": "miroir",
+            "stars": 40,
+            "topics": [
+              "ai-agents",
+              "docker",
+              "llm",
+              "mcp",
+              "openenv",
+              "reinforcement-learning",
+              "rl-environments"
+            ]
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebHarbor",
+          "description": "2026.11 UNC (AIMING Lab) 153 real websites docked as Docker images, 2,288 RL training tasks for GUI/web agents; Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+            "homepage": "https://aiming-lab.github.io/WebHarbor/",
+            "id": 1227369113,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-03T15:22:50Z",
+            "open_issues": 4,
+            "owner": "aiming-lab",
+            "repo": "WebHarbor",
+            "stars": 77,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WildAWM",
+          "description": "2026.10 Microsoft Research Executable computer-use environment synthesis with tasks + verifiers, using open LLMs only; Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+            "homepage": "https://msr-orchard.github.io/WildAWM/",
+            "id": 1398558360,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-21T00:02:44Z",
+            "open_issues": 0,
+            "owner": "MSR-Orchard",
+            "repo": "WildAWM",
+            "stars": 91,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T18:56:11.652Z"
+        },
         {
           "node_type": "item",
           "title": "MIMESIS",
@@ -14804,7 +16631,7 @@
             "id": 1309640971,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-04T03:11:24Z",
+            "last_commit": "2026-11-17T06:51:25Z",
             "open_issues": 20,
             "owner": "microsoft",
             "repo": "Echoverse",
@@ -14934,8 +16761,8 @@
             "id": 1117394737,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-10T09:23:31Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-17T03:53:22Z",
+            "open_issues": 15,
             "owner": "inclusionAI",
             "repo": "AEnvironment",
             "stars": 324,
@@ -15020,10 +16847,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T13:07:41Z",
-            "open_issues": 139,
+            "open_issues": 137,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 1306,
+            "stars": 1314,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -15061,11 +16888,11 @@
             "id": 1118085970,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:12:28Z",
-            "open_issues": 197,
+            "last_commit": "2026-11-17T15:09:06Z",
+            "open_issues": 198,
             "owner": "opensandbox-group",
             "repo": "OpenSandbox",
-            "stars": 17351,
+            "stars": 17462,
             "topics": [
               "aaif",
               "ai",
@@ -15089,11 +16916,11 @@
             "id": 1067949357,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T12:13:55Z",
-            "open_issues": 73,
+            "last_commit": "2026-11-17T13:09:07Z",
+            "open_issues": 71,
             "owner": "openenv",
             "repo": "OpenEnv",
-            "stars": 2857,
+            "stars": 2861,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -15215,11 +17042,11 @@
             "id": 1044554840,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T19:57:07Z",
-            "open_issues": 1522,
+            "last_commit": "2026-11-17T18:55:10Z",
+            "open_issues": 1511,
             "owner": "NVIDIA-NeMo",
             "repo": "Gym",
-            "stars": 1338,
+            "stars": 1342,
             "topics": [
               "agents",
               "benchmarks",
@@ -15341,7 +17168,7 @@
             "open_issues": 7,
             "owner": "SalesforceAIResearch",
             "repo": "enterprise-deep-research",
-            "stars": 1226,
+            "stars": 1227,
             "topics": [
               "deep-research-agent",
               "e2b",
@@ -15407,7 +17234,7 @@
             "open_issues": 11,
             "owner": "texttron",
             "repo": "BrowseComp-Plus",
-            "stars": 392,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -15488,10 +17315,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T20:51:09Z",
-            "open_issues": 343,
+            "open_issues": 348,
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 2460,
+            "stars": 2468,
             "topics": [
               "ai",
               "benchmark",
@@ -15612,7 +17439,7 @@
             "open_issues": 17,
             "owner": "R2E-Gym",
             "repo": "R2E-Gym",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "agents",
               "coding-agents",
@@ -15635,7 +17462,7 @@
             "id": 975908820,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:00:45Z",
+            "last_commit": "2026-11-16T20:02:18Z",
             "open_issues": 33,
             "owner": "SWE-bench",
             "repo": "SWE-smith",
@@ -15746,7 +17573,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T21:52:31Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "open-thought",
             "repo": "reasoning-gym",
             "stars": 1553,
@@ -15795,7 +17622,7 @@
             "open_issues": 10,
             "owner": "SWE-Gym",
             "repo": "SWE-Gym",
-            "stars": 763,
+            "stars": 764,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -15893,7 +17720,7 @@
             "open_issues": 57,
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1511,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -15914,7 +17741,7 @@
             "open_issues": 17,
             "owner": "StonyBrookNLP",
             "repo": "appworld",
-            "stars": 554,
+            "stars": 557,
             "topics": [
               "acl-2024",
               "ai-agents",
@@ -15951,7 +17778,7 @@
             "open_issues": 60,
             "owner": "google-research",
             "repo": "android_world",
-            "stars": 1014,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -15972,7 +17799,7 @@
             "open_issues": 28,
             "owner": "TheAgentCompany",
             "repo": "TheAgentCompany",
-            "stars": 819,
+            "stars": 822,
             "topics": [
               "agent",
               "ai",
@@ -16064,10 +17891,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T19:40:56Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3262,
+            "stars": 3267,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -16103,7 +17930,7 @@
             "open_issues": 106,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1645,
+            "stars": 1646,
             "topics": [
               "agent",
               "nlp"
@@ -16127,7 +17954,7 @@
             "open_issues": 81,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3825,
+            "stars": 3827,
             "topics": [
               "chatgpt",
               "gpt-4",
@@ -16233,7 +18060,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 918,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-28T21:04:24.661Z"
@@ -16279,7 +18106,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "TextWorld",
-            "stars": 1466,
+            "stars": 1467,
             "topics": [
               "reinforcement-learning",
               "text-based-adventure",
@@ -16290,58 +18117,10 @@
         }
       ],
       "title": "⛰️ Environment"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GroundCUA",
-          "description": "(ServiceNow — marked \"Coming Soon\")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GroundCUA",
-            "homepage": null,
-            "id": 1077833068,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-03-24T23:22:49Z",
-            "open_issues": 2,
-            "owner": "ServiceNow",
-            "repo": "GroundCUA",
-            "stars": 136,
-            "topics": []
-          },
-          "first_seen": "2026-10-10T15:40:46.083Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SAPO: Single-Rollout Autoregressive Policy Optimization",
-          "description": "(repo dy-liang/SAPO is README-only; code \"will be released in the next few days\")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A PPO-style Agentic RL framework without a separate critic model and multiple rollouts",
-            "homepage": null,
-            "id": 1337931433,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-15T05:53:16Z",
-            "open_issues": 6,
-            "owner": "dy-liang",
-            "repo": "SAPO",
-            "stars": 72,
-            "topics": []
-          },
-          "first_seen": "2026-10-10T15:40:46.083Z"
-        }
-      ],
-      "title": "Under Review/Waiting for Open Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:58:59.638Z",
+    "last_updated": "2026-11-17T18:56:11.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List for Agentic RL",
@@ -16349,11 +18128,11 @@
       "id": 998903307,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-11-06T10:12:09Z",
+      "last_commit": "2026-11-16T23:29:38Z",
       "open_issues": 0,
       "owner": "thinkwee",
       "repo": "AgentsMeetRL",
-      "stars": 1880,
+      "stars": 1882,
       "topics": [
         "agent",
         "agentic-ai",
@@ -16370,7 +18149,7 @@
         "tool-learning"
       ]
     },
-    "original_repository_sha": "216155e1a97f1c519c3fd028dd7d3e99a24fa1d3",
+    "original_repository_sha": "4aef07043039f45a910bca7fcbbdbcebcaef43a7",
     "enhanced_repository": "enhansome/enhansome-AgentsMeetRL",
     "enhanced_repository_description": null,
     "title": "Awesome When LLM Agents Meet Reinforcement Learning with stars"
